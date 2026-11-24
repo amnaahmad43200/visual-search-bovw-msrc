@@ -25,7 +25,7 @@ Given a query photo, the system ranks 391 gallery images from most to least simi
 
 ![Pipeline](docs/images/02_pipeline.png)
 
-| Step | What I did | Notebook |
+| Step | What I did | Notebook (in `notebooks/`) |
 |---|---|---|
 | 1. Baseline | 64-bin RGB histogram with Euclidean distance. | `01` |
 | 2. Sampling | Compared detected SIFT with dense SIFT (12 px grid, 16 px keypoints). | `01`, `02` |
@@ -99,16 +99,18 @@ An oracle that picks the best weight per query using the true AP reaches only 0.
 
 ```
 .
-├── 01_…10_*.ipynb          Numbered pipeline notebooks (run in order)
+├── notebooks/              Numbered pipeline, run in order (01 → 10)
 ├── visual_search/          SIFT extraction, caching, vocabulary training, BoVW/TF-IDF encoding
 ├── cvpr/                   Dataset loading, evaluation (P@10, AP, mAP) and plotting utilities (module-supplied)
-├── split_manifest.csv      Fixed gallery / dev / test split
+├── scripts/                Command-line baseline check and deep-descriptor precompute
+├── results/                CSVs, figures and ranked-retrieval examples for every stage
 ├── bovw_vocabularies/      Trained visual vocabularies (K = 100)
 ├── bovw_features/          Encoded BoVW histograms and IDF weights
 ├── deep_features/          Cached MobileNetV3-Small descriptors
-├── results/                CSVs, figures and ranked-retrieval examples for every stage
 ├── docs/                   README images and detailed setup guide
-└── run_baseline.py         Command-line smoke test for the RGB baseline
+├── split_manifest.csv      Fixed gallery / dev / test split
+├── requirements.txt        Core dependencies
+└── requirements-deep.txt   Extra dependencies for the deep-feature stages
 ```
 
 ## Reproduce it
@@ -121,12 +123,12 @@ pip install "scikit-learn>=1.2"
 pip install -r requirements-deep.txt     # only for the deep-feature stages (7-9)
 ```
 
-In each notebook, set `PROJECT_ROOT` (this folder) and `DATASET_SOURCE` (extracted dataset folder, its `Images` folder, or the original ZIP), then run notebooks `01` to `10` in order. Large SIFT caches are git-ignored and are regenerated automatically. Full instructions, including Google Colab, are in [`docs/SETUP.md`](docs/SETUP.md).
+In each notebook, set `PROJECT_ROOT` (this folder) and `DATASET_SOURCE` (extracted dataset folder, its `Images` folder, or the original ZIP), then run the notebooks in `notebooks/` from `01` to `10` in order. Large SIFT caches are git-ignored and are regenerated automatically. Full instructions, including Google Colab, are in [`docs/SETUP.md`](docs/SETUP.md).
 
 Quick check of the baseline:
 
 ```bash
-python run_baseline.py /path/to/MSRC_ObjCategImageDatabase_v2.zip --split dev
+python scripts/run_baseline.py /path/to/MSRC_ObjCategImageDatabase_v2.zip --split dev
 ```
 
 ## Tech stack

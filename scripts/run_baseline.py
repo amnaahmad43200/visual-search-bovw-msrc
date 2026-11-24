@@ -3,6 +3,10 @@ from __future__ import annotations
 import argparse
 from functools import partial
 from pathlib import Path
+import sys
+
+ROOT = Path(__file__).resolve().parents[1]  # repository root
+sys.path.insert(0, str(ROOT))
 
 from cvpr.dataset import load_split_records
 from cvpr.baseline import global_rgb_histogram
@@ -17,7 +21,7 @@ def main():
     parser.add_argument("--split", choices=["dev", "test"], default="dev")
     args = parser.parse_args()
 
-    root = Path(__file__).resolve().parent
+    root = ROOT
     manifest = root / "split_manifest.csv"
     gallery, dev, test = load_split_records(args.dataset, manifest_path=manifest, extract_dir=root / "data")
     queries = dev if args.split == "dev" else test

@@ -2,6 +2,10 @@ from __future__ import annotations
 
 import argparse
 from pathlib import Path
+import sys
+
+ROOT = Path(__file__).resolve().parents[1]  # repository root
+sys.path.insert(0, str(ROOT))
 import numpy as np
 
 from cvpr.dataset import load_split_records
@@ -16,11 +20,11 @@ from cvpr.deep import (
 def main():
     parser = argparse.ArgumentParser(description="Precompute optional EEE3032 deep descriptors for SurreyLearn distribution.")
     parser.add_argument("dataset_source", help="Extracted MSRC folder or dataset ZIP")
-    parser.add_argument("--output", default="deep_cache", help="Output directory")
+    parser.add_argument("--output", default="deep_features", help="Output directory")
     parser.add_argument("--model", choices=["mobilenet_v3_small", "squeezenet1_1", "both"], default="both")
     args = parser.parse_args()
 
-    root = Path(__file__).resolve().parent
+    root = ROOT
     gallery, dev, test = load_split_records(args.dataset_source, root / "split_manifest.csv", root / "data")
     all_records = list(gallery) + list(dev) + list(test)
     out = Path(args.output)

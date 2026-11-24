@@ -5,69 +5,19 @@ This project compares image retrieval methods on the **MSRC-v2** dataset. It sta
 The MSRC-v2 image dataset is **not included** in the coursework ZIP. 
 ## 1. Project folder structure
 
- The notebook names and support files shown here are included in the supplied project ZIP. Cache, vocabulary, feature and result folders are generated or populated as the notebooks run; some may already contain files in the supplied ZIP.
+The layout below is what this repository contains. Cache, vocabulary, feature and result folders are generated or populated as the notebooks run; some may already contain files in the supplied ZIP.
 
 ```text
-MyDrive/
-└── cvpr_coursework/
-    ├── EEE3032_Coursework_Starter_v3/
-    │   ├── 01_baseline_and_detected_sift.ipynb
-    │   ├── 02_dense_sift.ipynb
-    │   ├── 03_descriptor_variants.ipynb
-    │   ├── 04_visual_vocabulary.ipynb
-    │   ├── 05_bovw_histograms.ipynb
-    │   ├── 06_Development_Evaluation.ipynb
-    │   ├── 07_deep_descriptor_extraction.ipynb
-    │   ├── 08_deep_bovw_late_fusion.ipynb
-    │   ├── 09_query_adaptive_rank_fusion.ipynb
-    │   ├── 10_final_test_evaluation.ipynb
-    │   │
-    │   ├── EEE3032_Coursework_Starter.ipynb       # supplementary
-    │   ├── EEE3032_Dense_SIFT_Diagnostic.ipynb    # supplementary
-    │   ├── EEE3032_Optional_Deep_Descriptors.ipynb # supplementary
-    │   │
-    │   ├── cvpr/
-    │   │   ├── __init__.py
-    │   │   ├── baseline.py
-    │   │   ├── dataset.py
-    │   │   ├── deep.py
-    │   │   ├── evaluation.py
-    │   │   ├── personal.py
-    │   │   ├── plotting.py
-    │   │   └── retrieval.py
-    │   │
-    │   ├── visual_search/
-    │   │   ├── __init__.py
-    │   │   ├── cache.py
-    │   │   ├── encoding.py
-    │   │   ├── features.py
-    │   │   └── vocabulary.py
-    │   │
-    │   ├── sift_cache/              # generated/reused SIFT descriptors
-    │   ├── bovw_vocabularies/       # trained visual vocabularies
-    │   ├── bovw_features/           # encoded BoVW features and IDF data
-    │   ├── deep_features/           # optional deep-feature caches
-    │   ├── results/                 # CSV files, plots and retrieval examples
-    │   │
-    │   ├── split_manifest.csv
-    │   ├── student_methods.py
-    │   ├── run_baseline.py
-    │   ├── precompute_deep_descriptors.py
-    │   ├── requirements.txt
-    │   ├── requirements-deep.txt
-    │   ├── detected_vs_dense_sift_summary.csv
-    │   ├── sift_keypoint_summary.csv
-    │   ├── stage3_opponent_sift_summary.csv
-    │   ├── stage4_vocabulary_summary.csv
-    │   └── README.md
-    │
-    └── MSRC_ObjCategImageDatabase_v2/
-        └── Images/
-            ├── 1_*.bmp
-            ├── 2_*.bmp
-            ├── 3_*.bmp
-            ├── ...
-            └── 20_*.bmp
+cvpr_coursework/
+├── visual-search-bovw-msrc/        <- PROJECT_ROOT (this repository)
+│   ├── notebooks/                  01 ... 10 numbered notebooks
+│   ├── cvpr/  visual_search/       Python packages
+│   ├── scripts/                    command-line helpers
+│   ├── results/  bovw_vocabularies/  bovw_features/  deep_features/
+│   ├── sift_cache/                 generated when you run the notebooks (git-ignored)
+│   └── split_manifest.csv
+└── MSRC_ObjCategImageDatabase_v2/  <- DATASET_SOURCE (not included)
+    └── Images/ ...
 ```
 
 
@@ -82,14 +32,14 @@ For the Google Drive folder layout shown above, use:
 from pathlib import Path
 
 PROJECT_ROOT = Path(
-    "/content/drive/MyDrive/cvpr_coursework/EEE3032_Coursework_Starter_v3"
+    "/content/drive/MyDrive/cvpr_coursework/visual-search-bovw-msrc"
 )
 DATASET_SOURCE = Path(
     "/content/drive/MyDrive/cvpr_coursework/MSRC_ObjCategImageDatabase_v2"
 )
 ```
 
-`PROJECT_ROOT` must point to the `EEE3032_Coursework_Starter_v3` folder containing `cvpr/`, `visual_search/` and `split_manifest.csv`.
+`PROJECT_ROOT` must point to the repository folder containing `cvpr/`, `visual_search/` and `split_manifest.csv`.
 
 `DATASET_SOURCE` can point to any one of the following:
 
@@ -108,7 +58,7 @@ DATASET_SOURCE = Path(
 For a local computer replace the two paths with your locations. For example,:
 
 ```python
-PROJECT_ROOT = Path(r"C:\Users\YourName\Documents\EEE3032_Coursework_Starter_v3")
+PROJECT_ROOT = Path(r"C:\Users\YourName\Documents\visual-search-bovw-msrc")
 DATASET_SOURCE = Path(r"C:\Users\YourName\Documents\MSRC_ObjCategImageDatabase_v2")
 ```
 
@@ -152,7 +102,6 @@ Run the numbered notebooks from top to bottom:
 
 Stages 1–6 and 10 form the core workflow. Stages 7–9 are the optional deep-descriptor extension. Run Stage 7 before Stage 8, and Stage 8 before Stage 9. Stage 10 should be run only after the core method and its settings have been selected using Stage 6 development results.
 
-The three supplementary notebooks are not part of the numbered workflow.
 
 ## 5. Dataset split and evaluation
 
