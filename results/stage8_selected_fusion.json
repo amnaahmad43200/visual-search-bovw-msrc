@@ -1,0 +1,20 @@
+{
+  "model": "MobileNetV3-Small",
+  "descriptor": "mobilenet_v3_small_l2",
+  "deep_dimension": 576,
+  "core_configuration": "dense_root_opponentsift",
+  "core_vocabulary_size": 100,
+  "alpha_bovw": 0.0,
+  "alpha_deep": 1.0,
+  "development_mAP": 0.6726491980793622,
+  "development_mean_P_at_10": 0.7350000000000001,
+  "alpha_grid": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "selection_rule": "highest development mAP; tie-break by mean P@10; then alpha closest to 0.5",
+  "test_evaluated": false
+}

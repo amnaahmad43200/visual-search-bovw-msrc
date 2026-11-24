@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Large, regenerable SIFT descriptor caches (~290 MB). Recreated by notebooks 01-03 and 05.
+sift_cache/
+
+# Dataset (not redistributed) and local scratch
+MSRC_ObjCategImageDatabase_v2/
+*.zip
+.DS_Store

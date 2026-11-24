@@ -1,0 +1,901 @@
+method,configuration,filename,category,AP,P@10
+Global RGB histogram,baseline_rgb,1_15_s.bmp,1,0.16981958916997134,0.2
+Global RGB histogram,baseline_rgb,1_21_s.bmp,1,0.24039441098347222,0.5
+Global RGB histogram,baseline_rgb,1_2_s.bmp,1,0.04672669034183245,0.0
+Global RGB histogram,baseline_rgb,1_3_s.bmp,1,0.2086485115224765,0.5
+Global RGB histogram,baseline_rgb,1_4_s.bmp,1,0.2879197090757494,0.5
+Global RGB histogram,baseline_rgb,2_10_s.bmp,2,0.21489963684013075,0.4
+Global RGB histogram,baseline_rgb,2_13_s.bmp,2,0.2527401683413146,0.3
+Global RGB histogram,baseline_rgb,2_27_s.bmp,2,0.5458172959268619,0.8
+Global RGB histogram,baseline_rgb,2_29_s.bmp,2,0.3396714915487421,0.5
+Global RGB histogram,baseline_rgb,2_30_s.bmp,2,0.14159624625451328,0.0
+Global RGB histogram,baseline_rgb,3_10_s.bmp,3,0.10568989328735394,0.0
+Global RGB histogram,baseline_rgb,3_24_s.bmp,3,0.14747139396987846,0.1
+Global RGB histogram,baseline_rgb,3_3_s.bmp,3,0.11356325713656165,0.1
+Global RGB histogram,baseline_rgb,3_4_s.bmp,3,0.06917754939925909,0.0
+Global RGB histogram,baseline_rgb,3_9_s.bmp,3,0.0713133345166157,0.0
+Global RGB histogram,baseline_rgb,4_12_s.bmp,4,0.19866321558936037,0.2
+Global RGB histogram,baseline_rgb,4_1_s.bmp,4,0.08766454677190202,0.1
+Global RGB histogram,baseline_rgb,4_26_s.bmp,4,0.1603734656783869,0.1
+Global RGB histogram,baseline_rgb,4_27_s.bmp,4,0.10515935878456714,0.0
+Global RGB histogram,baseline_rgb,4_3_s.bmp,4,0.15963808515287273,0.2
+Global RGB histogram,baseline_rgb,5_11_s.bmp,5,0.11411474451754629,0.1
+Global RGB histogram,baseline_rgb,5_23_s.bmp,5,0.2001453713102471,0.4
+Global RGB histogram,baseline_rgb,5_24_s.bmp,5,0.06360482743363213,0.0
+Global RGB histogram,baseline_rgb,5_26_s.bmp,5,0.26368115171052875,0.6
+Global RGB histogram,baseline_rgb,5_9_s.bmp,5,0.04108551772491794,0.0
+Global RGB histogram,baseline_rgb,6_13_s.bmp,6,0.05672500140249172,0.1
+Global RGB histogram,baseline_rgb,6_19_s.bmp,6,0.10980262163098438,0.1
+Global RGB histogram,baseline_rgb,6_1_s.bmp,6,0.2252460427209832,0.2
+Global RGB histogram,baseline_rgb,6_23_s.bmp,6,0.14167754476429636,0.2
+Global RGB histogram,baseline_rgb,6_24_s.bmp,6,0.15949024482295598,0.0
+Global RGB histogram,baseline_rgb,7_13_s.bmp,7,0.2683371364869953,0.2
+Global RGB histogram,baseline_rgb,7_14_s.bmp,7,0.10942819484759055,0.0
+Global RGB histogram,baseline_rgb,7_1_s.bmp,7,0.3361764971869426,0.5
+Global RGB histogram,baseline_rgb,7_25_s.bmp,7,0.270824465972657,0.3
+Global RGB histogram,baseline_rgb,7_30_s.bmp,7,0.180885960129149,0.3
+Global RGB histogram,baseline_rgb,8_1_s.bmp,8,0.23435092887789724,0.2
+Global RGB histogram,baseline_rgb,8_21_s.bmp,8,0.08254364984813074,0.1
+Global RGB histogram,baseline_rgb,8_24_s.bmp,8,0.17713097634397829,0.2
+Global RGB histogram,baseline_rgb,8_3_s.bmp,8,0.14043007929099854,0.2
+Global RGB histogram,baseline_rgb,8_6_s.bmp,8,0.12939767606983948,0.0
+Global RGB histogram,baseline_rgb,9_14_s.bmp,9,0.2368060467399457,0.3
+Global RGB histogram,baseline_rgb,9_18_s.bmp,9,0.5225128716986166,0.7
+Global RGB histogram,baseline_rgb,9_1_s.bmp,9,0.09602745792825297,0.1
+Global RGB histogram,baseline_rgb,9_26_s.bmp,9,0.38460355158896925,0.4
+Global RGB histogram,baseline_rgb,9_5_s.bmp,9,0.45102473588846914,0.6
+Global RGB histogram,baseline_rgb,10_12_s.bmp,10,0.12760434994438732,0.0
+Global RGB histogram,baseline_rgb,10_21_s.bmp,10,0.156527560416694,0.1
+Global RGB histogram,baseline_rgb,10_24_s.bmp,10,0.1571129115769618,0.0
+Global RGB histogram,baseline_rgb,10_2_s.bmp,10,0.056862837169856566,0.0
+Global RGB histogram,baseline_rgb,10_6_s.bmp,10,0.1073301485547065,0.1
+Global RGB histogram,baseline_rgb,11_13_s.bmp,11,0.0700876354213342,0.1
+Global RGB histogram,baseline_rgb,11_15_s.bmp,11,0.056515575923343706,0.0
+Global RGB histogram,baseline_rgb,11_24_s.bmp,11,0.03325861198387181,0.0
+Global RGB histogram,baseline_rgb,11_3_s.bmp,11,0.042167080785199526,0.0
+Global RGB histogram,baseline_rgb,11_8_s.bmp,11,0.0625211865251116,0.1
+Global RGB histogram,baseline_rgb,12_21_s.bmp,12,0.17395099629482383,0.3
+Global RGB histogram,baseline_rgb,12_30_s.bmp,12,0.11350323260569789,0.3
+Global RGB histogram,baseline_rgb,12_31_s.bmp,12,0.07221471784700823,0.0
+Global RGB histogram,baseline_rgb,12_3_s.bmp,12,0.041829580152120106,0.0
+Global RGB histogram,baseline_rgb,12_8_s.bmp,12,0.08958405863314393,0.1
+Global RGB histogram,baseline_rgb,13_15_s.bmp,13,0.6218060637662879,0.7
+Global RGB histogram,baseline_rgb,13_18_s.bmp,13,0.05907635088937115,0.0
+Global RGB histogram,baseline_rgb,13_1_s.bmp,13,0.6058416170822694,0.8
+Global RGB histogram,baseline_rgb,13_20_s.bmp,13,0.3083292617441065,0.5
+Global RGB histogram,baseline_rgb,13_29_s.bmp,13,0.41814569426657133,0.6
+Global RGB histogram,baseline_rgb,14_13_s.bmp,14,0.0589784814739366,0.0
+Global RGB histogram,baseline_rgb,14_16_s.bmp,14,0.12237175255855734,0.3
+Global RGB histogram,baseline_rgb,14_1_s.bmp,14,0.06699810792425068,0.1
+Global RGB histogram,baseline_rgb,14_24_s.bmp,14,0.06767949020702661,0.0
+Global RGB histogram,baseline_rgb,14_6_s.bmp,14,0.06882365987372682,0.1
+Global RGB histogram,baseline_rgb,15_11_s.bmp,15,0.07281749009713805,0.0
+Global RGB histogram,baseline_rgb,15_12_s.bmp,15,0.04285500207513461,0.0
+Global RGB histogram,baseline_rgb,15_13_s.bmp,15,0.17192868169507275,0.2
+Global RGB histogram,baseline_rgb,15_21_s.bmp,15,0.03833113747393878,0.0
+Global RGB histogram,baseline_rgb,15_24_s.bmp,15,0.07644829719039474,0.1
+Global RGB histogram,baseline_rgb,16_1_s.bmp,16,0.06349072027557323,0.0
+Global RGB histogram,baseline_rgb,16_20_s.bmp,16,0.07487407723474382,0.1
+Global RGB histogram,baseline_rgb,16_29_s.bmp,16,0.049439161584688036,0.0
+Global RGB histogram,baseline_rgb,16_3_s.bmp,16,0.09206058079968166,0.1
+Global RGB histogram,baseline_rgb,16_7_s.bmp,16,0.09164586532418736,0.1
+Global RGB histogram,baseline_rgb,17_18_s.bmp,17,0.33114484461478755,0.5
+Global RGB histogram,baseline_rgb,17_19_s.bmp,17,0.28368363133754276,0.3
+Global RGB histogram,baseline_rgb,17_25_s.bmp,17,0.10952523430196817,0.1
+Global RGB histogram,baseline_rgb,17_7_s.bmp,17,0.23332485212828963,0.3
+Global RGB histogram,baseline_rgb,17_9_s.bmp,17,0.2282734886049477,0.3
+Global RGB histogram,baseline_rgb,18_26_s.bmp,18,0.06411670951575735,0.1
+Global RGB histogram,baseline_rgb,18_2_s.bmp,18,0.06027655190843393,0.0
+Global RGB histogram,baseline_rgb,18_30_s.bmp,18,0.08670601549898513,0.2
+Global RGB histogram,baseline_rgb,18_3_s.bmp,18,0.07770071002047335,0.1
+Global RGB histogram,baseline_rgb,18_5_s.bmp,18,0.23988735287156376,0.4
+Global RGB histogram,baseline_rgb,19_15_s.bmp,19,0.04868400470980232,0.0
+Global RGB histogram,baseline_rgb,19_19_s.bmp,19,0.07664157466723442,0.2
+Global RGB histogram,baseline_rgb,19_24_s.bmp,19,0.31319671771168656,0.4
+Global RGB histogram,baseline_rgb,19_26_s.bmp,19,0.16574979729312284,0.1
+Global RGB histogram,baseline_rgb,19_3_s.bmp,19,0.09256464336259732,0.0
+Global RGB histogram,baseline_rgb,20_11_s.bmp,20,0.026382179186963683,0.0
+Global RGB histogram,baseline_rgb,20_13_s.bmp,20,0.09641793144767932,0.1
+Global RGB histogram,baseline_rgb,20_14_s.bmp,20,0.024256783867654022,0.0
+Global RGB histogram,baseline_rgb,20_18_s.bmp,20,0.07268134225853307,0.1
+Global RGB histogram,baseline_rgb,20_20_s.bmp,20,0.09318431121376158,0.0
+Detected SIFT,detected_sift,1_15_s.bmp,1,0.20554207339401645,0.4
+Detected SIFT,detected_sift,1_21_s.bmp,1,0.20279975368389175,0.3
+Detected SIFT,detected_sift,1_2_s.bmp,1,0.1259967176953281,0.2
+Detected SIFT,detected_sift,1_3_s.bmp,1,0.06122693226934386,0.0
+Detected SIFT,detected_sift,1_4_s.bmp,1,0.11326971357526439,0.2
+Detected SIFT,detected_sift,2_10_s.bmp,2,0.2705338469030655,0.3
+Detected SIFT,detected_sift,2_13_s.bmp,2,0.242984962849159,0.3
+Detected SIFT,detected_sift,2_27_s.bmp,2,0.37997870205441425,0.4
+Detected SIFT,detected_sift,2_29_s.bmp,2,0.3686578469001923,0.6
+Detected SIFT,detected_sift,2_30_s.bmp,2,0.4059890580646335,0.5
+Detected SIFT,detected_sift,3_10_s.bmp,3,0.12826655943211737,0.2
+Detected SIFT,detected_sift,3_24_s.bmp,3,0.2983696435145612,0.5
+Detected SIFT,detected_sift,3_3_s.bmp,3,0.08013320511989062,0.1
+Detected SIFT,detected_sift,3_4_s.bmp,3,0.13869228965211097,0.3
+Detected SIFT,detected_sift,3_9_s.bmp,3,0.05979106269905193,0.0
+Detected SIFT,detected_sift,4_12_s.bmp,4,0.2320969716081355,0.4
+Detected SIFT,detected_sift,4_1_s.bmp,4,0.2545162870418475,0.5
+Detected SIFT,detected_sift,4_26_s.bmp,4,0.4664729362607657,0.6
+Detected SIFT,detected_sift,4_27_s.bmp,4,0.36334998117110323,0.5
+Detected SIFT,detected_sift,4_3_s.bmp,4,0.22347904581166428,0.4
+Detected SIFT,detected_sift,5_11_s.bmp,5,0.21128589397243686,0.3
+Detected SIFT,detected_sift,5_23_s.bmp,5,0.2699496515737384,0.5
+Detected SIFT,detected_sift,5_24_s.bmp,5,0.08479694193569436,0.0
+Detected SIFT,detected_sift,5_26_s.bmp,5,0.10893943702998891,0.1
+Detected SIFT,detected_sift,5_9_s.bmp,5,0.15231755794404686,0.2
+Detected SIFT,detected_sift,6_13_s.bmp,6,0.1103106051000643,0.1
+Detected SIFT,detected_sift,6_19_s.bmp,6,0.04245930614616429,0.0
+Detected SIFT,detected_sift,6_1_s.bmp,6,0.06911890343075036,0.0
+Detected SIFT,detected_sift,6_23_s.bmp,6,0.19470461139882067,0.2
+Detected SIFT,detected_sift,6_24_s.bmp,6,0.1522823025810618,0.1
+Detected SIFT,detected_sift,7_13_s.bmp,7,0.4956830954906115,0.6
+Detected SIFT,detected_sift,7_14_s.bmp,7,0.16623486811072707,0.1
+Detected SIFT,detected_sift,7_1_s.bmp,7,0.3602764937533721,0.4
+Detected SIFT,detected_sift,7_25_s.bmp,7,0.13565120569102487,0.0
+Detected SIFT,detected_sift,7_30_s.bmp,7,0.08141061477532856,0.0
+Detected SIFT,detected_sift,8_1_s.bmp,8,0.32300782342977263,0.4
+Detected SIFT,detected_sift,8_21_s.bmp,8,0.17156680201001964,0.2
+Detected SIFT,detected_sift,8_24_s.bmp,8,0.6064562808193961,0.8
+Detected SIFT,detected_sift,8_3_s.bmp,8,0.3038623185076616,0.5
+Detected SIFT,detected_sift,8_6_s.bmp,8,0.32647024042933614,0.4
+Detected SIFT,detected_sift,9_14_s.bmp,9,0.18461593155570816,0.4
+Detected SIFT,detected_sift,9_18_s.bmp,9,0.2111929104752647,0.3
+Detected SIFT,detected_sift,9_1_s.bmp,9,0.0896745633166079,0.1
+Detected SIFT,detected_sift,9_26_s.bmp,9,0.07809741614106304,0.0
+Detected SIFT,detected_sift,9_5_s.bmp,9,0.16101135176944661,0.3
+Detected SIFT,detected_sift,10_12_s.bmp,10,0.3984656918222203,0.6
+Detected SIFT,detected_sift,10_21_s.bmp,10,0.12300882608823899,0.3
+Detected SIFT,detected_sift,10_24_s.bmp,10,0.19985488544923735,0.3
+Detected SIFT,detected_sift,10_2_s.bmp,10,0.07965101000002837,0.0
+Detected SIFT,detected_sift,10_6_s.bmp,10,0.2258974511611668,0.3
+Detected SIFT,detected_sift,11_13_s.bmp,11,0.0876602087254735,0.1
+Detected SIFT,detected_sift,11_15_s.bmp,11,0.0943084158588432,0.3
+Detected SIFT,detected_sift,11_24_s.bmp,11,0.06402850588037294,0.1
+Detected SIFT,detected_sift,11_3_s.bmp,11,0.12732632999047494,0.1
+Detected SIFT,detected_sift,11_8_s.bmp,11,0.08114105975869593,0.1
+Detected SIFT,detected_sift,12_21_s.bmp,12,0.2238582518675426,0.3
+Detected SIFT,detected_sift,12_30_s.bmp,12,0.20780742710756184,0.3
+Detected SIFT,detected_sift,12_31_s.bmp,12,0.140563878566783,0.2
+Detected SIFT,detected_sift,12_3_s.bmp,12,0.045739644486217756,0.0
+Detected SIFT,detected_sift,12_8_s.bmp,12,0.11599641344715468,0.2
+Detected SIFT,detected_sift,13_15_s.bmp,13,0.5597732486458181,0.8
+Detected SIFT,detected_sift,13_18_s.bmp,13,0.196298768876062,0.1
+Detected SIFT,detected_sift,13_1_s.bmp,13,0.44308812980391465,0.6
+Detected SIFT,detected_sift,13_20_s.bmp,13,0.09422014188912649,0.1
+Detected SIFT,detected_sift,13_29_s.bmp,13,0.06271551675457716,0.0
+Detected SIFT,detected_sift,14_13_s.bmp,14,0.06739511033338919,0.0
+Detected SIFT,detected_sift,14_16_s.bmp,14,0.04687304040721123,0.1
+Detected SIFT,detected_sift,14_1_s.bmp,14,0.05221862801199697,0.0
+Detected SIFT,detected_sift,14_24_s.bmp,14,0.05607937918270156,0.1
+Detected SIFT,detected_sift,14_6_s.bmp,14,0.06920184695932344,0.1
+Detected SIFT,detected_sift,15_11_s.bmp,15,0.06278381764986521,0.1
+Detected SIFT,detected_sift,15_12_s.bmp,15,0.0376486791037017,0.0
+Detected SIFT,detected_sift,15_13_s.bmp,15,0.032403730216327344,0.0
+Detected SIFT,detected_sift,15_21_s.bmp,15,0.2171039941732358,0.2
+Detected SIFT,detected_sift,15_24_s.bmp,15,0.039164451539960114,0.0
+Detected SIFT,detected_sift,16_1_s.bmp,16,0.06579648872035881,0.1
+Detected SIFT,detected_sift,16_20_s.bmp,16,0.16788340700204787,0.3
+Detected SIFT,detected_sift,16_29_s.bmp,16,0.04251060637528724,0.0
+Detected SIFT,detected_sift,16_3_s.bmp,16,0.10135171057705843,0.2
+Detected SIFT,detected_sift,16_7_s.bmp,16,0.1853499857242578,0.3
+Detected SIFT,detected_sift,17_18_s.bmp,17,0.246044568479717,0.3
+Detected SIFT,detected_sift,17_19_s.bmp,17,0.19551919545525565,0.3
+Detected SIFT,detected_sift,17_25_s.bmp,17,0.06458526413744456,0.0
+Detected SIFT,detected_sift,17_7_s.bmp,17,0.1129713578846037,0.1
+Detected SIFT,detected_sift,17_9_s.bmp,17,0.13719324884949627,0.2
+Detected SIFT,detected_sift,18_26_s.bmp,18,0.035833999673780335,0.0
+Detected SIFT,detected_sift,18_2_s.bmp,18,0.04380147648787236,0.0
+Detected SIFT,detected_sift,18_30_s.bmp,18,0.041839966047096264,0.0
+Detected SIFT,detected_sift,18_3_s.bmp,18,0.058207180397435984,0.0
+Detected SIFT,detected_sift,18_5_s.bmp,18,0.13464253009706825,0.1
+Detected SIFT,detected_sift,19_15_s.bmp,19,0.05327068646750133,0.0
+Detected SIFT,detected_sift,19_19_s.bmp,19,0.10690242798330993,0.2
+Detected SIFT,detected_sift,19_24_s.bmp,19,0.09184487526297323,0.1
+Detected SIFT,detected_sift,19_26_s.bmp,19,0.18598367269969293,0.2
+Detected SIFT,detected_sift,19_3_s.bmp,19,0.07946787526276664,0.1
+Detected SIFT,detected_sift,20_11_s.bmp,20,0.02058756808873929,0.0
+Detected SIFT,detected_sift,20_13_s.bmp,20,0.20059329293724348,0.2
+Detected SIFT,detected_sift,20_14_s.bmp,20,0.026204359771864364,0.0
+Detected SIFT,detected_sift,20_18_s.bmp,20,0.019474107166729097,0.0
+Detected SIFT,detected_sift,20_20_s.bmp,20,0.074751828373932,0.2
+Detected RootSIFT,detected_rootsift,1_15_s.bmp,1,0.10137839700443514,0.1
+Detected RootSIFT,detected_rootsift,1_21_s.bmp,1,0.2595385537718923,0.4
+Detected RootSIFT,detected_rootsift,1_2_s.bmp,1,0.15303521859014751,0.3
+Detected RootSIFT,detected_rootsift,1_3_s.bmp,1,0.06671827974428605,0.0
+Detected RootSIFT,detected_rootsift,1_4_s.bmp,1,0.13237286502473083,0.2
+Detected RootSIFT,detected_rootsift,2_10_s.bmp,2,0.29609747906463046,0.5
+Detected RootSIFT,detected_rootsift,2_13_s.bmp,2,0.19988667744469465,0.3
+Detected RootSIFT,detected_rootsift,2_27_s.bmp,2,0.37739265424865576,0.5
+Detected RootSIFT,detected_rootsift,2_29_s.bmp,2,0.4688442187723118,0.7
+Detected RootSIFT,detected_rootsift,2_30_s.bmp,2,0.46206340954377617,0.4
+Detected RootSIFT,detected_rootsift,3_10_s.bmp,3,0.07631203250455261,0.0
+Detected RootSIFT,detected_rootsift,3_24_s.bmp,3,0.24626834645670687,0.4
+Detected RootSIFT,detected_rootsift,3_3_s.bmp,3,0.09329026034756932,0.1
+Detected RootSIFT,detected_rootsift,3_4_s.bmp,3,0.23836504937880285,0.3
+Detected RootSIFT,detected_rootsift,3_9_s.bmp,3,0.058250834958815945,0.0
+Detected RootSIFT,detected_rootsift,4_12_s.bmp,4,0.3972445409666442,0.5
+Detected RootSIFT,detected_rootsift,4_1_s.bmp,4,0.2521987242552878,0.2
+Detected RootSIFT,detected_rootsift,4_26_s.bmp,4,0.5383784659332881,0.6
+Detected RootSIFT,detected_rootsift,4_27_s.bmp,4,0.41479808983420136,0.5
+Detected RootSIFT,detected_rootsift,4_3_s.bmp,4,0.3056177067951488,0.4
+Detected RootSIFT,detected_rootsift,5_11_s.bmp,5,0.13991750595823643,0.2
+Detected RootSIFT,detected_rootsift,5_23_s.bmp,5,0.24566755604689247,0.4
+Detected RootSIFT,detected_rootsift,5_24_s.bmp,5,0.06896916928603572,0.0
+Detected RootSIFT,detected_rootsift,5_26_s.bmp,5,0.15582288208976283,0.2
+Detected RootSIFT,detected_rootsift,5_9_s.bmp,5,0.09698130285421906,0.2
+Detected RootSIFT,detected_rootsift,6_13_s.bmp,6,0.14190881813461853,0.2
+Detected RootSIFT,detected_rootsift,6_19_s.bmp,6,0.04090956339220945,0.0
+Detected RootSIFT,detected_rootsift,6_1_s.bmp,6,0.06919912471754636,0.0
+Detected RootSIFT,detected_rootsift,6_23_s.bmp,6,0.08180426050041283,0.1
+Detected RootSIFT,detected_rootsift,6_24_s.bmp,6,0.15788376186213393,0.0
+Detected RootSIFT,detected_rootsift,7_13_s.bmp,7,0.27008896755185474,0.2
+Detected RootSIFT,detected_rootsift,7_14_s.bmp,7,0.19985495394071492,0.2
+Detected RootSIFT,detected_rootsift,7_1_s.bmp,7,0.4586371667980419,0.4
+Detected RootSIFT,detected_rootsift,7_25_s.bmp,7,0.10417475309430083,0.0
+Detected RootSIFT,detected_rootsift,7_30_s.bmp,7,0.08555429138720569,0.1
+Detected RootSIFT,detected_rootsift,8_1_s.bmp,8,0.3647740481869479,0.4
+Detected RootSIFT,detected_rootsift,8_21_s.bmp,8,0.34858809898984316,0.4
+Detected RootSIFT,detected_rootsift,8_24_s.bmp,8,0.6583338901369462,1.0
+Detected RootSIFT,detected_rootsift,8_3_s.bmp,8,0.4378662579443273,0.6
+Detected RootSIFT,detected_rootsift,8_6_s.bmp,8,0.352367480902875,0.6
+Detected RootSIFT,detected_rootsift,9_14_s.bmp,9,0.17391102349050971,0.3
+Detected RootSIFT,detected_rootsift,9_18_s.bmp,9,0.247654165846347,0.4
+Detected RootSIFT,detected_rootsift,9_1_s.bmp,9,0.08452023292480622,0.1
+Detected RootSIFT,detected_rootsift,9_26_s.bmp,9,0.1720824300039656,0.3
+Detected RootSIFT,detected_rootsift,9_5_s.bmp,9,0.18696451425624977,0.2
+Detected RootSIFT,detected_rootsift,10_12_s.bmp,10,0.3252259861906931,0.5
+Detected RootSIFT,detected_rootsift,10_21_s.bmp,10,0.1302395464410592,0.2
+Detected RootSIFT,detected_rootsift,10_24_s.bmp,10,0.25695924141179777,0.5
+Detected RootSIFT,detected_rootsift,10_2_s.bmp,10,0.12172333615314827,0.2
+Detected RootSIFT,detected_rootsift,10_6_s.bmp,10,0.28650101764713626,0.4
+Detected RootSIFT,detected_rootsift,11_13_s.bmp,11,0.11440993140556857,0.3
+Detected RootSIFT,detected_rootsift,11_15_s.bmp,11,0.23032981557935228,0.4
+Detected RootSIFT,detected_rootsift,11_24_s.bmp,11,0.05155929175645314,0.0
+Detected RootSIFT,detected_rootsift,11_3_s.bmp,11,0.2887133257644102,0.4
+Detected RootSIFT,detected_rootsift,11_8_s.bmp,11,0.09106958212459833,0.2
+Detected RootSIFT,detected_rootsift,12_21_s.bmp,12,0.19235411271801794,0.3
+Detected RootSIFT,detected_rootsift,12_30_s.bmp,12,0.1839166396989287,0.3
+Detected RootSIFT,detected_rootsift,12_31_s.bmp,12,0.14005906158757797,0.2
+Detected RootSIFT,detected_rootsift,12_3_s.bmp,12,0.04832739891627421,0.0
+Detected RootSIFT,detected_rootsift,12_8_s.bmp,12,0.07995733265176672,0.1
+Detected RootSIFT,detected_rootsift,13_15_s.bmp,13,0.5585357134018645,0.7
+Detected RootSIFT,detected_rootsift,13_18_s.bmp,13,0.17371234209820846,0.3
+Detected RootSIFT,detected_rootsift,13_1_s.bmp,13,0.4743057783184256,0.7
+Detected RootSIFT,detected_rootsift,13_20_s.bmp,13,0.039369301975916066,0.0
+Detected RootSIFT,detected_rootsift,13_29_s.bmp,13,0.061531342534939894,0.0
+Detected RootSIFT,detected_rootsift,14_13_s.bmp,14,0.06345215256592075,0.1
+Detected RootSIFT,detected_rootsift,14_16_s.bmp,14,0.04521527557865544,0.0
+Detected RootSIFT,detected_rootsift,14_1_s.bmp,14,0.04847743708913826,0.1
+Detected RootSIFT,detected_rootsift,14_24_s.bmp,14,0.06791542873225034,0.1
+Detected RootSIFT,detected_rootsift,14_6_s.bmp,14,0.08064610408300045,0.1
+Detected RootSIFT,detected_rootsift,15_11_s.bmp,15,0.0806463842881719,0.1
+Detected RootSIFT,detected_rootsift,15_12_s.bmp,15,0.04470752064164959,0.0
+Detected RootSIFT,detected_rootsift,15_13_s.bmp,15,0.03555370581394067,0.0
+Detected RootSIFT,detected_rootsift,15_21_s.bmp,15,0.11022444372275873,0.1
+Detected RootSIFT,detected_rootsift,15_24_s.bmp,15,0.03894559903928934,0.0
+Detected RootSIFT,detected_rootsift,16_1_s.bmp,16,0.061791553180578086,0.0
+Detected RootSIFT,detected_rootsift,16_20_s.bmp,16,0.08321106287496069,0.1
+Detected RootSIFT,detected_rootsift,16_29_s.bmp,16,0.05218304899573382,0.1
+Detected RootSIFT,detected_rootsift,16_3_s.bmp,16,0.11256820321969233,0.2
+Detected RootSIFT,detected_rootsift,16_7_s.bmp,16,0.17939556611720245,0.3
+Detected RootSIFT,detected_rootsift,17_18_s.bmp,17,0.19196647960940458,0.3
+Detected RootSIFT,detected_rootsift,17_19_s.bmp,17,0.16983047383326572,0.2
+Detected RootSIFT,detected_rootsift,17_25_s.bmp,17,0.0698026237817909,0.0
+Detected RootSIFT,detected_rootsift,17_7_s.bmp,17,0.09193220906129992,0.0
+Detected RootSIFT,detected_rootsift,17_9_s.bmp,17,0.1074784050137795,0.1
+Detected RootSIFT,detected_rootsift,18_26_s.bmp,18,0.03612188529430488,0.0
+Detected RootSIFT,detected_rootsift,18_2_s.bmp,18,0.04941934473776853,0.0
+Detected RootSIFT,detected_rootsift,18_30_s.bmp,18,0.05752799174331676,0.1
+Detected RootSIFT,detected_rootsift,18_3_s.bmp,18,0.05102003540470797,0.0
+Detected RootSIFT,detected_rootsift,18_5_s.bmp,18,0.1687272541043211,0.3
+Detected RootSIFT,detected_rootsift,19_15_s.bmp,19,0.06127202879516473,0.0
+Detected RootSIFT,detected_rootsift,19_19_s.bmp,19,0.13187360990952673,0.2
+Detected RootSIFT,detected_rootsift,19_24_s.bmp,19,0.1166403285061705,0.1
+Detected RootSIFT,detected_rootsift,19_26_s.bmp,19,0.16995649439377056,0.2
+Detected RootSIFT,detected_rootsift,19_3_s.bmp,19,0.09283028434956017,0.0
+Detected RootSIFT,detected_rootsift,20_11_s.bmp,20,0.019575650879985477,0.0
+Detected RootSIFT,detected_rootsift,20_13_s.bmp,20,0.11182643833090998,0.1
+Detected RootSIFT,detected_rootsift,20_14_s.bmp,20,0.028449675689090313,0.0
+Detected RootSIFT,detected_rootsift,20_18_s.bmp,20,0.019090437679313448,0.0
+Detected RootSIFT,detected_rootsift,20_20_s.bmp,20,0.1360214925328523,0.2
+Detected OpponentSIFT,detected_opponentsift,1_15_s.bmp,1,0.3180901964656413,0.6
+Detected OpponentSIFT,detected_opponentsift,1_21_s.bmp,1,0.36791211331890883,0.6
+Detected OpponentSIFT,detected_opponentsift,1_2_s.bmp,1,0.09206391969040523,0.1
+Detected OpponentSIFT,detected_opponentsift,1_3_s.bmp,1,0.06574376964187577,0.1
+Detected OpponentSIFT,detected_opponentsift,1_4_s.bmp,1,0.1734266507034682,0.2
+Detected OpponentSIFT,detected_opponentsift,2_10_s.bmp,2,0.3160904356658472,0.6
+Detected OpponentSIFT,detected_opponentsift,2_13_s.bmp,2,0.14793253726124475,0.1
+Detected OpponentSIFT,detected_opponentsift,2_27_s.bmp,2,0.3485946196082154,0.6
+Detected OpponentSIFT,detected_opponentsift,2_29_s.bmp,2,0.398192809981358,0.7
+Detected OpponentSIFT,detected_opponentsift,2_30_s.bmp,2,0.2844212067921345,0.6
+Detected OpponentSIFT,detected_opponentsift,3_10_s.bmp,3,0.18101681025681943,0.3
+Detected OpponentSIFT,detected_opponentsift,3_24_s.bmp,3,0.31733623412939066,0.4
+Detected OpponentSIFT,detected_opponentsift,3_3_s.bmp,3,0.1174025623116792,0.0
+Detected OpponentSIFT,detected_opponentsift,3_4_s.bmp,3,0.12427738732204155,0.2
+Detected OpponentSIFT,detected_opponentsift,3_9_s.bmp,3,0.07954706436290385,0.0
+Detected OpponentSIFT,detected_opponentsift,4_12_s.bmp,4,0.4276624250523324,0.4
+Detected OpponentSIFT,detected_opponentsift,4_1_s.bmp,4,0.08579642002877343,0.0
+Detected OpponentSIFT,detected_opponentsift,4_26_s.bmp,4,0.31986692940971106,0.4
+Detected OpponentSIFT,detected_opponentsift,4_27_s.bmp,4,0.21437939084531762,0.3
+Detected OpponentSIFT,detected_opponentsift,4_3_s.bmp,4,0.23450689423662124,0.2
+Detected OpponentSIFT,detected_opponentsift,5_11_s.bmp,5,0.3116397821479694,0.5
+Detected OpponentSIFT,detected_opponentsift,5_23_s.bmp,5,0.27335326279307914,0.3
+Detected OpponentSIFT,detected_opponentsift,5_24_s.bmp,5,0.18242521502400585,0.1
+Detected OpponentSIFT,detected_opponentsift,5_26_s.bmp,5,0.22324111633477312,0.4
+Detected OpponentSIFT,detected_opponentsift,5_9_s.bmp,5,0.13109774585462947,0.2
+Detected OpponentSIFT,detected_opponentsift,6_13_s.bmp,6,0.11707589894038055,0.1
+Detected OpponentSIFT,detected_opponentsift,6_19_s.bmp,6,0.057454780472727084,0.1
+Detected OpponentSIFT,detected_opponentsift,6_1_s.bmp,6,0.13158902740090458,0.1
+Detected OpponentSIFT,detected_opponentsift,6_23_s.bmp,6,0.30667928662170213,0.5
+Detected OpponentSIFT,detected_opponentsift,6_24_s.bmp,6,0.1515602717331104,0.2
+Detected OpponentSIFT,detected_opponentsift,7_13_s.bmp,7,0.4227755657353339,0.6
+Detected OpponentSIFT,detected_opponentsift,7_14_s.bmp,7,0.32720186132898843,0.4
+Detected OpponentSIFT,detected_opponentsift,7_1_s.bmp,7,0.44280839311433706,0.6
+Detected OpponentSIFT,detected_opponentsift,7_25_s.bmp,7,0.6078632538772558,0.7
+Detected OpponentSIFT,detected_opponentsift,7_30_s.bmp,7,0.06905832217757416,0.1
+Detected OpponentSIFT,detected_opponentsift,8_1_s.bmp,8,0.5025140692193316,0.6
+Detected OpponentSIFT,detected_opponentsift,8_21_s.bmp,8,0.2205127652070264,0.2
+Detected OpponentSIFT,detected_opponentsift,8_24_s.bmp,8,0.7282454816007449,0.9
+Detected OpponentSIFT,detected_opponentsift,8_3_s.bmp,8,0.2507422766162787,0.4
+Detected OpponentSIFT,detected_opponentsift,8_6_s.bmp,8,0.17446494968740522,0.2
+Detected OpponentSIFT,detected_opponentsift,9_14_s.bmp,9,0.4637286380623329,0.7
+Detected OpponentSIFT,detected_opponentsift,9_18_s.bmp,9,0.28501506070689014,0.4
+Detected OpponentSIFT,detected_opponentsift,9_1_s.bmp,9,0.25369074324494323,0.5
+Detected OpponentSIFT,detected_opponentsift,9_26_s.bmp,9,0.36803152322786503,0.5
+Detected OpponentSIFT,detected_opponentsift,9_5_s.bmp,9,0.5527777658569375,0.6
+Detected OpponentSIFT,detected_opponentsift,10_12_s.bmp,10,0.2311651853786717,0.4
+Detected OpponentSIFT,detected_opponentsift,10_21_s.bmp,10,0.1730333535943047,0.4
+Detected OpponentSIFT,detected_opponentsift,10_24_s.bmp,10,0.22182709841146034,0.3
+Detected OpponentSIFT,detected_opponentsift,10_2_s.bmp,10,0.10960684422999503,0.0
+Detected OpponentSIFT,detected_opponentsift,10_6_s.bmp,10,0.14902989144853002,0.5
+Detected OpponentSIFT,detected_opponentsift,11_13_s.bmp,11,0.07229890357466547,0.2
+Detected OpponentSIFT,detected_opponentsift,11_15_s.bmp,11,0.10320305264403673,0.1
+Detected OpponentSIFT,detected_opponentsift,11_24_s.bmp,11,0.0821331398029681,0.1
+Detected OpponentSIFT,detected_opponentsift,11_3_s.bmp,11,0.08865838025791216,0.1
+Detected OpponentSIFT,detected_opponentsift,11_8_s.bmp,11,0.1510407411410462,0.2
+Detected OpponentSIFT,detected_opponentsift,12_21_s.bmp,12,0.11627279626427006,0.3
+Detected OpponentSIFT,detected_opponentsift,12_30_s.bmp,12,0.17651594786176997,0.3
+Detected OpponentSIFT,detected_opponentsift,12_31_s.bmp,12,0.12090608933878581,0.3
+Detected OpponentSIFT,detected_opponentsift,12_3_s.bmp,12,0.0747809788785559,0.1
+Detected OpponentSIFT,detected_opponentsift,12_8_s.bmp,12,0.12083469311207855,0.1
+Detected OpponentSIFT,detected_opponentsift,13_15_s.bmp,13,0.6351305818734438,0.9
+Detected OpponentSIFT,detected_opponentsift,13_18_s.bmp,13,0.3567981430098619,0.6
+Detected OpponentSIFT,detected_opponentsift,13_1_s.bmp,13,0.6007472930644212,0.8
+Detected OpponentSIFT,detected_opponentsift,13_20_s.bmp,13,0.16993360579601222,0.2
+Detected OpponentSIFT,detected_opponentsift,13_29_s.bmp,13,0.0395194744554052,0.0
+Detected OpponentSIFT,detected_opponentsift,14_13_s.bmp,14,0.06399272406399104,0.0
+Detected OpponentSIFT,detected_opponentsift,14_16_s.bmp,14,0.06110141142965335,0.1
+Detected OpponentSIFT,detected_opponentsift,14_1_s.bmp,14,0.051362530485475545,0.0
+Detected OpponentSIFT,detected_opponentsift,14_24_s.bmp,14,0.049371070021186014,0.0
+Detected OpponentSIFT,detected_opponentsift,14_6_s.bmp,14,0.04513267684791727,0.0
+Detected OpponentSIFT,detected_opponentsift,15_11_s.bmp,15,0.09296591371608541,0.1
+Detected OpponentSIFT,detected_opponentsift,15_12_s.bmp,15,0.06025319453707139,0.0
+Detected OpponentSIFT,detected_opponentsift,15_13_s.bmp,15,0.061286227063546694,0.0
+Detected OpponentSIFT,detected_opponentsift,15_21_s.bmp,15,0.09260667842206152,0.1
+Detected OpponentSIFT,detected_opponentsift,15_24_s.bmp,15,0.05580237131962945,0.0
+Detected OpponentSIFT,detected_opponentsift,16_1_s.bmp,16,0.0627368410236053,0.1
+Detected OpponentSIFT,detected_opponentsift,16_20_s.bmp,16,0.18781563040619034,0.4
+Detected OpponentSIFT,detected_opponentsift,16_29_s.bmp,16,0.054554766263697055,0.0
+Detected OpponentSIFT,detected_opponentsift,16_3_s.bmp,16,0.1279796125519719,0.2
+Detected OpponentSIFT,detected_opponentsift,16_7_s.bmp,16,0.13605503934300184,0.1
+Detected OpponentSIFT,detected_opponentsift,17_18_s.bmp,17,0.2658561633479256,0.4
+Detected OpponentSIFT,detected_opponentsift,17_19_s.bmp,17,0.23702252180641134,0.4
+Detected OpponentSIFT,detected_opponentsift,17_25_s.bmp,17,0.11561871044409051,0.1
+Detected OpponentSIFT,detected_opponentsift,17_7_s.bmp,17,0.4225616668570667,0.7
+Detected OpponentSIFT,detected_opponentsift,17_9_s.bmp,17,0.19119860803659,0.2
+Detected OpponentSIFT,detected_opponentsift,18_26_s.bmp,18,0.05298137517094013,0.1
+Detected OpponentSIFT,detected_opponentsift,18_2_s.bmp,18,0.0727045104339031,0.1
+Detected OpponentSIFT,detected_opponentsift,18_30_s.bmp,18,0.037814731123509346,0.0
+Detected OpponentSIFT,detected_opponentsift,18_3_s.bmp,18,0.17541651102801756,0.4
+Detected OpponentSIFT,detected_opponentsift,18_5_s.bmp,18,0.08356382201925952,0.1
+Detected OpponentSIFT,detected_opponentsift,19_15_s.bmp,19,0.08122131117797422,0.1
+Detected OpponentSIFT,detected_opponentsift,19_19_s.bmp,19,0.12062186425357682,0.1
+Detected OpponentSIFT,detected_opponentsift,19_24_s.bmp,19,0.1256062757522873,0.2
+Detected OpponentSIFT,detected_opponentsift,19_26_s.bmp,19,0.2103359977741614,0.3
+Detected OpponentSIFT,detected_opponentsift,19_3_s.bmp,19,0.08902582173872717,0.1
+Detected OpponentSIFT,detected_opponentsift,20_11_s.bmp,20,0.02110788578549638,0.0
+Detected OpponentSIFT,detected_opponentsift,20_13_s.bmp,20,0.1442957546430062,0.2
+Detected OpponentSIFT,detected_opponentsift,20_14_s.bmp,20,0.04064823255379402,0.1
+Detected OpponentSIFT,detected_opponentsift,20_18_s.bmp,20,0.019889935703449727,0.0
+Detected OpponentSIFT,detected_opponentsift,20_20_s.bmp,20,0.21361625257669895,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,1_15_s.bmp,1,0.3676004886945891,0.4
+Detected RootOpponentSIFT,detected_root_opponentsift,1_21_s.bmp,1,0.32693436972800966,0.6
+Detected RootOpponentSIFT,detected_root_opponentsift,1_2_s.bmp,1,0.16698524446277394,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,1_3_s.bmp,1,0.06218310220470098,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,1_4_s.bmp,1,0.18319654944754563,0.3
+Detected RootOpponentSIFT,detected_root_opponentsift,2_10_s.bmp,2,0.298819994434725,0.6
+Detected RootOpponentSIFT,detected_root_opponentsift,2_13_s.bmp,2,0.17504241639187734,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,2_27_s.bmp,2,0.45103186636002246,0.6
+Detected RootOpponentSIFT,detected_root_opponentsift,2_29_s.bmp,2,0.3926424630217754,0.6
+Detected RootOpponentSIFT,detected_root_opponentsift,2_30_s.bmp,2,0.37637115410471783,0.7
+Detected RootOpponentSIFT,detected_root_opponentsift,3_10_s.bmp,3,0.1400521777977465,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,3_24_s.bmp,3,0.21049963901223517,0.3
+Detected RootOpponentSIFT,detected_root_opponentsift,3_3_s.bmp,3,0.14498611896987776,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,3_4_s.bmp,3,0.15585191285703254,0.3
+Detected RootOpponentSIFT,detected_root_opponentsift,3_9_s.bmp,3,0.08079361511155578,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,4_12_s.bmp,4,0.6432360502142274,0.8
+Detected RootOpponentSIFT,detected_root_opponentsift,4_1_s.bmp,4,0.2858295335241311,0.5
+Detected RootOpponentSIFT,detected_root_opponentsift,4_26_s.bmp,4,0.21032270231742034,0.3
+Detected RootOpponentSIFT,detected_root_opponentsift,4_27_s.bmp,4,0.3968674042832554,0.5
+Detected RootOpponentSIFT,detected_root_opponentsift,4_3_s.bmp,4,0.31176401083287286,0.4
+Detected RootOpponentSIFT,detected_root_opponentsift,5_11_s.bmp,5,0.25434965090171124,0.4
+Detected RootOpponentSIFT,detected_root_opponentsift,5_23_s.bmp,5,0.23078038241561322,0.4
+Detected RootOpponentSIFT,detected_root_opponentsift,5_24_s.bmp,5,0.10941083740787597,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,5_26_s.bmp,5,0.23072986561333675,0.3
+Detected RootOpponentSIFT,detected_root_opponentsift,5_9_s.bmp,5,0.1377491421148428,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,6_13_s.bmp,6,0.16196704503866574,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,6_19_s.bmp,6,0.05005805717072338,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,6_1_s.bmp,6,0.1460651526493469,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,6_23_s.bmp,6,0.2821655162637027,0.5
+Detected RootOpponentSIFT,detected_root_opponentsift,6_24_s.bmp,6,0.21693226373413763,0.3
+Detected RootOpponentSIFT,detected_root_opponentsift,7_13_s.bmp,7,0.54948433545858,0.7
+Detected RootOpponentSIFT,detected_root_opponentsift,7_14_s.bmp,7,0.15123305768662137,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,7_1_s.bmp,7,0.43584585225361183,0.6
+Detected RootOpponentSIFT,detected_root_opponentsift,7_25_s.bmp,7,0.4210781519768644,0.6
+Detected RootOpponentSIFT,detected_root_opponentsift,7_30_s.bmp,7,0.10602608784898629,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,8_1_s.bmp,8,0.47617136363417056,0.5
+Detected RootOpponentSIFT,detected_root_opponentsift,8_21_s.bmp,8,0.4655852648646948,0.5
+Detected RootOpponentSIFT,detected_root_opponentsift,8_24_s.bmp,8,0.7294136906512688,0.9
+Detected RootOpponentSIFT,detected_root_opponentsift,8_3_s.bmp,8,0.3412782863311912,0.4
+Detected RootOpponentSIFT,detected_root_opponentsift,8_6_s.bmp,8,0.2155206628275025,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,9_14_s.bmp,9,0.4582345111732253,0.7
+Detected RootOpponentSIFT,detected_root_opponentsift,9_18_s.bmp,9,0.3051305540709329,0.3
+Detected RootOpponentSIFT,detected_root_opponentsift,9_1_s.bmp,9,0.25865482582714894,0.4
+Detected RootOpponentSIFT,detected_root_opponentsift,9_26_s.bmp,9,0.48193947445274726,0.6
+Detected RootOpponentSIFT,detected_root_opponentsift,9_5_s.bmp,9,0.46221723099231893,0.5
+Detected RootOpponentSIFT,detected_root_opponentsift,10_12_s.bmp,10,0.26566754002530013,0.6
+Detected RootOpponentSIFT,detected_root_opponentsift,10_21_s.bmp,10,0.12311982207521237,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,10_24_s.bmp,10,0.25086277193207585,0.5
+Detected RootOpponentSIFT,detected_root_opponentsift,10_2_s.bmp,10,0.1410574163318183,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,10_6_s.bmp,10,0.11901279061567999,0.3
+Detected RootOpponentSIFT,detected_root_opponentsift,11_13_s.bmp,11,0.06490113269661782,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,11_15_s.bmp,11,0.07735237009000874,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,11_24_s.bmp,11,0.10491212287008773,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,11_3_s.bmp,11,0.0956153259373751,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,11_8_s.bmp,11,0.08741548716700048,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,12_21_s.bmp,12,0.12949104613027385,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,12_30_s.bmp,12,0.18153505593139121,0.3
+Detected RootOpponentSIFT,detected_root_opponentsift,12_31_s.bmp,12,0.12751022819339758,0.3
+Detected RootOpponentSIFT,detected_root_opponentsift,12_3_s.bmp,12,0.11635775779403912,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,12_8_s.bmp,12,0.0575289295193599,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,13_15_s.bmp,13,0.6201190619448604,0.8
+Detected RootOpponentSIFT,detected_root_opponentsift,13_18_s.bmp,13,0.5101241532616269,0.7
+Detected RootOpponentSIFT,detected_root_opponentsift,13_1_s.bmp,13,0.5896964820545914,0.7
+Detected RootOpponentSIFT,detected_root_opponentsift,13_20_s.bmp,13,0.1076858234703415,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,13_29_s.bmp,13,0.05161098328274342,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,14_13_s.bmp,14,0.07462582624875223,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,14_16_s.bmp,14,0.06552051490321398,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,14_1_s.bmp,14,0.05488860034849434,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,14_24_s.bmp,14,0.04954118439786405,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,14_6_s.bmp,14,0.05605867300707993,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,15_11_s.bmp,15,0.1549766132855541,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,15_12_s.bmp,15,0.08757191995467865,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,15_13_s.bmp,15,0.09372614406220661,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,15_21_s.bmp,15,0.1696668747293772,0.3
+Detected RootOpponentSIFT,detected_root_opponentsift,15_24_s.bmp,15,0.06294055041351225,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,16_1_s.bmp,16,0.06110295732048658,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,16_20_s.bmp,16,0.28215755200200016,0.4
+Detected RootOpponentSIFT,detected_root_opponentsift,16_29_s.bmp,16,0.059098993248661635,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,16_3_s.bmp,16,0.04447824815779301,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,16_7_s.bmp,16,0.12525799318726644,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,17_18_s.bmp,17,0.3004902930587349,0.4
+Detected RootOpponentSIFT,detected_root_opponentsift,17_19_s.bmp,17,0.2654291358423367,0.4
+Detected RootOpponentSIFT,detected_root_opponentsift,17_25_s.bmp,17,0.07797393105908426,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,17_7_s.bmp,17,0.398381750076662,0.5
+Detected RootOpponentSIFT,detected_root_opponentsift,17_9_s.bmp,17,0.19681140644306971,0.3
+Detected RootOpponentSIFT,detected_root_opponentsift,18_26_s.bmp,18,0.04212978268786021,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,18_2_s.bmp,18,0.04472880157718967,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,18_30_s.bmp,18,0.0424049909794334,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,18_3_s.bmp,18,0.2163844168569951,0.4
+Detected RootOpponentSIFT,detected_root_opponentsift,18_5_s.bmp,18,0.09585212496206144,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,19_15_s.bmp,19,0.08636888479370113,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,19_19_s.bmp,19,0.14203417301502985,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,19_24_s.bmp,19,0.1669762403544605,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,19_26_s.bmp,19,0.25587132066294205,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,19_3_s.bmp,19,0.07525042251089033,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,20_11_s.bmp,20,0.019993807152910943,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,20_13_s.bmp,20,0.15423502416888624,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,20_14_s.bmp,20,0.023374030616035567,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,20_18_s.bmp,20,0.019474670537015175,0.0
+Detected RootOpponentSIFT,detected_root_opponentsift,20_20_s.bmp,20,0.2247396930808822,0.2
+Dense SIFT,dense_sift,1_15_s.bmp,1,0.09084572442687917,0.0
+Dense SIFT,dense_sift,1_21_s.bmp,1,0.10078296186365336,0.2
+Dense SIFT,dense_sift,1_2_s.bmp,1,0.05696772157785359,0.0
+Dense SIFT,dense_sift,1_3_s.bmp,1,0.0972604283487619,0.1
+Dense SIFT,dense_sift,1_4_s.bmp,1,0.0647303301524841,0.0
+Dense SIFT,dense_sift,2_10_s.bmp,2,0.4187896068939382,0.6
+Dense SIFT,dense_sift,2_13_s.bmp,2,0.6081128053265628,0.8
+Dense SIFT,dense_sift,2_27_s.bmp,2,0.7052278955881576,0.8
+Dense SIFT,dense_sift,2_29_s.bmp,2,0.6644218089790969,0.9
+Dense SIFT,dense_sift,2_30_s.bmp,2,0.6957530362997879,0.9
+Dense SIFT,dense_sift,3_10_s.bmp,3,0.2033131753791369,0.3
+Dense SIFT,dense_sift,3_24_s.bmp,3,0.06928667089453355,0.1
+Dense SIFT,dense_sift,3_3_s.bmp,3,0.08060021197167737,0.0
+Dense SIFT,dense_sift,3_4_s.bmp,3,0.12000275074902997,0.1
+Dense SIFT,dense_sift,3_9_s.bmp,3,0.1853293699852106,0.3
+Dense SIFT,dense_sift,4_12_s.bmp,4,0.8099084437649348,0.7
+Dense SIFT,dense_sift,4_1_s.bmp,4,0.6094214128963845,0.6
+Dense SIFT,dense_sift,4_26_s.bmp,4,0.9730503795721186,1.0
+Dense SIFT,dense_sift,4_27_s.bmp,4,0.6886570711512124,0.7
+Dense SIFT,dense_sift,4_3_s.bmp,4,0.8127145411896051,0.9
+Dense SIFT,dense_sift,5_11_s.bmp,5,0.0609936852146716,0.1
+Dense SIFT,dense_sift,5_23_s.bmp,5,0.2956998441417934,0.3
+Dense SIFT,dense_sift,5_24_s.bmp,5,0.06682790663216379,0.0
+Dense SIFT,dense_sift,5_26_s.bmp,5,0.18733582404548751,0.4
+Dense SIFT,dense_sift,5_9_s.bmp,5,0.06914793070106437,0.0
+Dense SIFT,dense_sift,6_13_s.bmp,6,0.18536885665477495,0.3
+Dense SIFT,dense_sift,6_19_s.bmp,6,0.11641157624269102,0.2
+Dense SIFT,dense_sift,6_1_s.bmp,6,0.18116860104176588,0.2
+Dense SIFT,dense_sift,6_23_s.bmp,6,0.09170859101578696,0.1
+Dense SIFT,dense_sift,6_24_s.bmp,6,0.3311540709184746,0.4
+Dense SIFT,dense_sift,7_13_s.bmp,7,0.20372042434419005,0.2
+Dense SIFT,dense_sift,7_14_s.bmp,7,0.29834397766184134,0.4
+Dense SIFT,dense_sift,7_1_s.bmp,7,0.6771220253976278,0.7
+Dense SIFT,dense_sift,7_25_s.bmp,7,0.05735801963975229,0.0
+Dense SIFT,dense_sift,7_30_s.bmp,7,0.10858910378653293,0.1
+Dense SIFT,dense_sift,8_1_s.bmp,8,0.23197643258417763,0.2
+Dense SIFT,dense_sift,8_21_s.bmp,8,0.21286055108720198,0.2
+Dense SIFT,dense_sift,8_24_s.bmp,8,0.2614061145343191,0.2
+Dense SIFT,dense_sift,8_3_s.bmp,8,0.4117705285862271,0.5
+Dense SIFT,dense_sift,8_6_s.bmp,8,0.3031961445012007,0.3
+Dense SIFT,dense_sift,9_14_s.bmp,9,0.2004794838894443,0.3
+Dense SIFT,dense_sift,9_18_s.bmp,9,0.3117286513245221,0.3
+Dense SIFT,dense_sift,9_1_s.bmp,9,0.3705441534610864,0.5
+Dense SIFT,dense_sift,9_26_s.bmp,9,0.401619907319463,0.5
+Dense SIFT,dense_sift,9_5_s.bmp,9,0.46803569398121836,0.6
+Dense SIFT,dense_sift,10_12_s.bmp,10,0.2705384594458682,0.4
+Dense SIFT,dense_sift,10_21_s.bmp,10,0.3682371943599613,0.6
+Dense SIFT,dense_sift,10_24_s.bmp,10,0.22100278021619768,0.3
+Dense SIFT,dense_sift,10_2_s.bmp,10,0.20354132012508133,0.5
+Dense SIFT,dense_sift,10_6_s.bmp,10,0.47032579011335895,0.8
+Dense SIFT,dense_sift,11_13_s.bmp,11,0.3870164951583828,0.7
+Dense SIFT,dense_sift,11_15_s.bmp,11,0.0942120896309453,0.1
+Dense SIFT,dense_sift,11_24_s.bmp,11,0.06226135554399568,0.0
+Dense SIFT,dense_sift,11_3_s.bmp,11,0.1171635718128375,0.1
+Dense SIFT,dense_sift,11_8_s.bmp,11,0.1590144906928144,0.2
+Dense SIFT,dense_sift,12_21_s.bmp,12,0.20694546805410977,0.4
+Dense SIFT,dense_sift,12_30_s.bmp,12,0.2031041214641197,0.5
+Dense SIFT,dense_sift,12_31_s.bmp,12,0.21399426773934385,0.3
+Dense SIFT,dense_sift,12_3_s.bmp,12,0.06332126113023877,0.0
+Dense SIFT,dense_sift,12_8_s.bmp,12,0.05861335337070206,0.0
+Dense SIFT,dense_sift,13_15_s.bmp,13,0.7164069432727803,0.9
+Dense SIFT,dense_sift,13_18_s.bmp,13,0.7161400412455574,0.9
+Dense SIFT,dense_sift,13_1_s.bmp,13,0.5146152805468401,0.5
+Dense SIFT,dense_sift,13_20_s.bmp,13,0.10813425210871386,0.2
+Dense SIFT,dense_sift,13_29_s.bmp,13,0.04944133836594171,0.1
+Dense SIFT,dense_sift,14_13_s.bmp,14,0.08291162111980802,0.1
+Dense SIFT,dense_sift,14_16_s.bmp,14,0.048062001262058215,0.0
+Dense SIFT,dense_sift,14_1_s.bmp,14,0.048613837030388574,0.0
+Dense SIFT,dense_sift,14_24_s.bmp,14,0.051703290228510626,0.0
+Dense SIFT,dense_sift,14_6_s.bmp,14,0.07465712573461916,0.0
+Dense SIFT,dense_sift,15_11_s.bmp,15,0.047361652783375605,0.0
+Dense SIFT,dense_sift,15_12_s.bmp,15,0.06087945030576704,0.0
+Dense SIFT,dense_sift,15_13_s.bmp,15,0.1225070933440617,0.2
+Dense SIFT,dense_sift,15_21_s.bmp,15,0.265271167296462,0.3
+Dense SIFT,dense_sift,15_24_s.bmp,15,0.09383761708622058,0.1
+Dense SIFT,dense_sift,16_1_s.bmp,16,0.04723685715092704,0.0
+Dense SIFT,dense_sift,16_20_s.bmp,16,0.24982370345406602,0.3
+Dense SIFT,dense_sift,16_29_s.bmp,16,0.05710699467836283,0.0
+Dense SIFT,dense_sift,16_3_s.bmp,16,0.08642606002704467,0.1
+Dense SIFT,dense_sift,16_7_s.bmp,16,0.12875595592589703,0.3
+Dense SIFT,dense_sift,17_18_s.bmp,17,0.21332666926075716,0.4
+Dense SIFT,dense_sift,17_19_s.bmp,17,0.14266966507912,0.3
+Dense SIFT,dense_sift,17_25_s.bmp,17,0.07438476700604227,0.1
+Dense SIFT,dense_sift,17_7_s.bmp,17,0.41776905295283007,0.7
+Dense SIFT,dense_sift,17_9_s.bmp,17,0.38450811775012084,0.5
+Dense SIFT,dense_sift,18_26_s.bmp,18,0.05381422809809411,0.0
+Dense SIFT,dense_sift,18_2_s.bmp,18,0.056859073923732385,0.0
+Dense SIFT,dense_sift,18_30_s.bmp,18,0.23454162476731005,0.4
+Dense SIFT,dense_sift,18_3_s.bmp,18,0.281167177142607,0.5
+Dense SIFT,dense_sift,18_5_s.bmp,18,0.12667057844543977,0.0
+Dense SIFT,dense_sift,19_15_s.bmp,19,0.09036372731280526,0.1
+Dense SIFT,dense_sift,19_19_s.bmp,19,0.0861915560469065,0.0
+Dense SIFT,dense_sift,19_24_s.bmp,19,0.12960832019156424,0.2
+Dense SIFT,dense_sift,19_26_s.bmp,19,0.15375754533550864,0.2
+Dense SIFT,dense_sift,19_3_s.bmp,19,0.11644949282754795,0.2
+Dense SIFT,dense_sift,20_11_s.bmp,20,0.1343594880954189,0.1
+Dense SIFT,dense_sift,20_13_s.bmp,20,0.15141717711033095,0.1
+Dense SIFT,dense_sift,20_14_s.bmp,20,0.17020817219383558,0.4
+Dense SIFT,dense_sift,20_18_s.bmp,20,0.06260337858372687,0.0
+Dense SIFT,dense_sift,20_20_s.bmp,20,0.45317586151320727,0.4
+Dense RootSIFT,dense_rootsift,1_15_s.bmp,1,0.09733467564757109,0.1
+Dense RootSIFT,dense_rootsift,1_21_s.bmp,1,0.10984042274637082,0.1
+Dense RootSIFT,dense_rootsift,1_2_s.bmp,1,0.10667229103108662,0.1
+Dense RootSIFT,dense_rootsift,1_3_s.bmp,1,0.05670658276205663,0.0
+Dense RootSIFT,dense_rootsift,1_4_s.bmp,1,0.10679125786619312,0.1
+Dense RootSIFT,dense_rootsift,2_10_s.bmp,2,0.24693063173479798,0.4
+Dense RootSIFT,dense_rootsift,2_13_s.bmp,2,0.7166829349124381,0.9
+Dense RootSIFT,dense_rootsift,2_27_s.bmp,2,0.8235734303152057,1.0
+Dense RootSIFT,dense_rootsift,2_29_s.bmp,2,0.6711525265813192,0.9
+Dense RootSIFT,dense_rootsift,2_30_s.bmp,2,0.6668312558429913,0.9
+Dense RootSIFT,dense_rootsift,3_10_s.bmp,3,0.14438356729595364,0.3
+Dense RootSIFT,dense_rootsift,3_24_s.bmp,3,0.10468487886305325,0.2
+Dense RootSIFT,dense_rootsift,3_3_s.bmp,3,0.130796018339501,0.2
+Dense RootSIFT,dense_rootsift,3_4_s.bmp,3,0.1239626820297213,0.1
+Dense RootSIFT,dense_rootsift,3_9_s.bmp,3,0.09551596569018198,0.2
+Dense RootSIFT,dense_rootsift,4_12_s.bmp,4,0.8663707653312003,1.0
+Dense RootSIFT,dense_rootsift,4_1_s.bmp,4,0.4861520905734681,0.7
+Dense RootSIFT,dense_rootsift,4_26_s.bmp,4,0.9660045306001187,1.0
+Dense RootSIFT,dense_rootsift,4_27_s.bmp,4,0.4839794611063212,0.6
+Dense RootSIFT,dense_rootsift,4_3_s.bmp,4,0.7667964566375013,0.8
+Dense RootSIFT,dense_rootsift,5_11_s.bmp,5,0.05955234022193538,0.0
+Dense RootSIFT,dense_rootsift,5_23_s.bmp,5,0.31410483044615495,0.5
+Dense RootSIFT,dense_rootsift,5_24_s.bmp,5,0.07469681690360531,0.1
+Dense RootSIFT,dense_rootsift,5_26_s.bmp,5,0.09625253897228123,0.1
+Dense RootSIFT,dense_rootsift,5_9_s.bmp,5,0.09548737066294626,0.1
+Dense RootSIFT,dense_rootsift,6_13_s.bmp,6,0.1569174759066509,0.2
+Dense RootSIFT,dense_rootsift,6_19_s.bmp,6,0.2708599532987338,0.4
+Dense RootSIFT,dense_rootsift,6_1_s.bmp,6,0.19611099865210568,0.3
+Dense RootSIFT,dense_rootsift,6_23_s.bmp,6,0.08791942436002854,0.0
+Dense RootSIFT,dense_rootsift,6_24_s.bmp,6,0.3683336613270845,0.6
+Dense RootSIFT,dense_rootsift,7_13_s.bmp,7,0.43840881542326304,0.4
+Dense RootSIFT,dense_rootsift,7_14_s.bmp,7,0.38593570377925623,0.5
+Dense RootSIFT,dense_rootsift,7_1_s.bmp,7,0.4346576891980901,0.4
+Dense RootSIFT,dense_rootsift,7_25_s.bmp,7,0.07479720854510344,0.0
+Dense RootSIFT,dense_rootsift,7_30_s.bmp,7,0.1912375521515411,0.1
+Dense RootSIFT,dense_rootsift,8_1_s.bmp,8,0.2085555635388911,0.2
+Dense RootSIFT,dense_rootsift,8_21_s.bmp,8,0.3830053120426253,0.5
+Dense RootSIFT,dense_rootsift,8_24_s.bmp,8,0.1983963047998312,0.1
+Dense RootSIFT,dense_rootsift,8_3_s.bmp,8,0.5025454035320182,0.6
+Dense RootSIFT,dense_rootsift,8_6_s.bmp,8,0.2541858465265273,0.3
+Dense RootSIFT,dense_rootsift,9_14_s.bmp,9,0.11634600602806351,0.1
+Dense RootSIFT,dense_rootsift,9_18_s.bmp,9,0.23849571008740114,0.2
+Dense RootSIFT,dense_rootsift,9_1_s.bmp,9,0.22045044487203183,0.3
+Dense RootSIFT,dense_rootsift,9_26_s.bmp,9,0.3076088165611357,0.5
+Dense RootSIFT,dense_rootsift,9_5_s.bmp,9,0.47728250316304194,0.5
+Dense RootSIFT,dense_rootsift,10_12_s.bmp,10,0.4592736146954902,0.6
+Dense RootSIFT,dense_rootsift,10_21_s.bmp,10,0.3048564360673368,0.3
+Dense RootSIFT,dense_rootsift,10_24_s.bmp,10,0.1663288950063482,0.3
+Dense RootSIFT,dense_rootsift,10_2_s.bmp,10,0.16607990381730542,0.3
+Dense RootSIFT,dense_rootsift,10_6_s.bmp,10,0.5214698061414116,0.8
+Dense RootSIFT,dense_rootsift,11_13_s.bmp,11,0.3115340837059423,0.4
+Dense RootSIFT,dense_rootsift,11_15_s.bmp,11,0.07834368600969956,0.1
+Dense RootSIFT,dense_rootsift,11_24_s.bmp,11,0.0401900427569773,0.0
+Dense RootSIFT,dense_rootsift,11_3_s.bmp,11,0.058413012046710434,0.0
+Dense RootSIFT,dense_rootsift,11_8_s.bmp,11,0.172454097766476,0.3
+Dense RootSIFT,dense_rootsift,12_21_s.bmp,12,0.1276827601182369,0.2
+Dense RootSIFT,dense_rootsift,12_30_s.bmp,12,0.21141900401230407,0.4
+Dense RootSIFT,dense_rootsift,12_31_s.bmp,12,0.2124803239818811,0.3
+Dense RootSIFT,dense_rootsift,12_3_s.bmp,12,0.09080550033109215,0.1
+Dense RootSIFT,dense_rootsift,12_8_s.bmp,12,0.06916734502277372,0.1
+Dense RootSIFT,dense_rootsift,13_15_s.bmp,13,0.7350902666605388,1.0
+Dense RootSIFT,dense_rootsift,13_18_s.bmp,13,0.7353514845247037,1.0
+Dense RootSIFT,dense_rootsift,13_1_s.bmp,13,0.6151438962849272,0.8
+Dense RootSIFT,dense_rootsift,13_20_s.bmp,13,0.08030466870088843,0.1
+Dense RootSIFT,dense_rootsift,13_29_s.bmp,13,0.035287592903039074,0.0
+Dense RootSIFT,dense_rootsift,14_13_s.bmp,14,0.13105560923797083,0.2
+Dense RootSIFT,dense_rootsift,14_16_s.bmp,14,0.05254849760311906,0.0
+Dense RootSIFT,dense_rootsift,14_1_s.bmp,14,0.10085841964398252,0.0
+Dense RootSIFT,dense_rootsift,14_24_s.bmp,14,0.05429037444977378,0.0
+Dense RootSIFT,dense_rootsift,14_6_s.bmp,14,0.08820191724826969,0.0
+Dense RootSIFT,dense_rootsift,15_11_s.bmp,15,0.04872054460159597,0.0
+Dense RootSIFT,dense_rootsift,15_12_s.bmp,15,0.07602295237971658,0.1
+Dense RootSIFT,dense_rootsift,15_13_s.bmp,15,0.08753430618274256,0.1
+Dense RootSIFT,dense_rootsift,15_21_s.bmp,15,0.05868508896502585,0.0
+Dense RootSIFT,dense_rootsift,15_24_s.bmp,15,0.0627837109074049,0.0
+Dense RootSIFT,dense_rootsift,16_1_s.bmp,16,0.05348543788282191,0.1
+Dense RootSIFT,dense_rootsift,16_20_s.bmp,16,0.27529646122041596,0.4
+Dense RootSIFT,dense_rootsift,16_29_s.bmp,16,0.08477197175333269,0.0
+Dense RootSIFT,dense_rootsift,16_3_s.bmp,16,0.10040819924971545,0.1
+Dense RootSIFT,dense_rootsift,16_7_s.bmp,16,0.12072361865028954,0.2
+Dense RootSIFT,dense_rootsift,17_18_s.bmp,17,0.29720369402437413,0.4
+Dense RootSIFT,dense_rootsift,17_19_s.bmp,17,0.23276208860141998,0.4
+Dense RootSIFT,dense_rootsift,17_25_s.bmp,17,0.0622581980362855,0.0
+Dense RootSIFT,dense_rootsift,17_7_s.bmp,17,0.4320008688241156,0.6
+Dense RootSIFT,dense_rootsift,17_9_s.bmp,17,0.43179135492629006,0.6
+Dense RootSIFT,dense_rootsift,18_26_s.bmp,18,0.06122723581234387,0.0
+Dense RootSIFT,dense_rootsift,18_2_s.bmp,18,0.09812807613309134,0.1
+Dense RootSIFT,dense_rootsift,18_30_s.bmp,18,0.22660269497376517,0.4
+Dense RootSIFT,dense_rootsift,18_3_s.bmp,18,0.15325181337032717,0.1
+Dense RootSIFT,dense_rootsift,18_5_s.bmp,18,0.13505443495942043,0.1
+Dense RootSIFT,dense_rootsift,19_15_s.bmp,19,0.07397684752595109,0.1
+Dense RootSIFT,dense_rootsift,19_19_s.bmp,19,0.0696505601302518,0.0
+Dense RootSIFT,dense_rootsift,19_24_s.bmp,19,0.08402791741307475,0.1
+Dense RootSIFT,dense_rootsift,19_26_s.bmp,19,0.15766527314820952,0.2
+Dense RootSIFT,dense_rootsift,19_3_s.bmp,19,0.08404057338074462,0.1
+Dense RootSIFT,dense_rootsift,20_11_s.bmp,20,0.030574247120002975,0.0
+Dense RootSIFT,dense_rootsift,20_13_s.bmp,20,0.056714396281888124,0.1
+Dense RootSIFT,dense_rootsift,20_14_s.bmp,20,0.046656402799234914,0.1
+Dense RootSIFT,dense_rootsift,20_18_s.bmp,20,0.035011613408000825,0.0
+Dense RootSIFT,dense_rootsift,20_20_s.bmp,20,0.40308230973273634,0.5
+Dense OpponentSIFT,dense_opponentsift,1_15_s.bmp,1,0.13282754870425934,0.1
+Dense OpponentSIFT,dense_opponentsift,1_21_s.bmp,1,0.10637783847648356,0.1
+Dense OpponentSIFT,dense_opponentsift,1_2_s.bmp,1,0.0578452267259853,0.0
+Dense OpponentSIFT,dense_opponentsift,1_3_s.bmp,1,0.06104904509249455,0.0
+Dense OpponentSIFT,dense_opponentsift,1_4_s.bmp,1,0.06734073650765175,0.0
+Dense OpponentSIFT,dense_opponentsift,2_10_s.bmp,2,0.5131185938473952,0.7
+Dense OpponentSIFT,dense_opponentsift,2_13_s.bmp,2,0.13631090688002506,0.1
+Dense OpponentSIFT,dense_opponentsift,2_27_s.bmp,2,0.8100565956503045,1.0
+Dense OpponentSIFT,dense_opponentsift,2_29_s.bmp,2,0.761709613617872,0.9
+Dense OpponentSIFT,dense_opponentsift,2_30_s.bmp,2,0.5453355519983419,0.7
+Dense OpponentSIFT,dense_opponentsift,3_10_s.bmp,3,0.2294357763077909,0.3
+Dense OpponentSIFT,dense_opponentsift,3_24_s.bmp,3,0.1420940723504707,0.2
+Dense OpponentSIFT,dense_opponentsift,3_3_s.bmp,3,0.08582943537455937,0.0
+Dense OpponentSIFT,dense_opponentsift,3_4_s.bmp,3,0.1681151428661438,0.2
+Dense OpponentSIFT,dense_opponentsift,3_9_s.bmp,3,0.17837977249883943,0.4
+Dense OpponentSIFT,dense_opponentsift,4_12_s.bmp,4,0.7819295302307315,0.7
+Dense OpponentSIFT,dense_opponentsift,4_1_s.bmp,4,0.8071673552364089,1.0
+Dense OpponentSIFT,dense_opponentsift,4_26_s.bmp,4,0.5427830995776042,0.5
+Dense OpponentSIFT,dense_opponentsift,4_27_s.bmp,4,0.8840795294781362,1.0
+Dense OpponentSIFT,dense_opponentsift,4_3_s.bmp,4,0.9342300458256341,0.9
+Dense OpponentSIFT,dense_opponentsift,5_11_s.bmp,5,0.1378389085217515,0.1
+Dense OpponentSIFT,dense_opponentsift,5_23_s.bmp,5,0.1733189748923072,0.3
+Dense OpponentSIFT,dense_opponentsift,5_24_s.bmp,5,0.08976377782867898,0.0
+Dense OpponentSIFT,dense_opponentsift,5_26_s.bmp,5,0.12239490202357887,0.1
+Dense OpponentSIFT,dense_opponentsift,5_9_s.bmp,5,0.05348464168347158,0.0
+Dense OpponentSIFT,dense_opponentsift,6_13_s.bmp,6,0.3463336547498418,0.4
+Dense OpponentSIFT,dense_opponentsift,6_19_s.bmp,6,0.20915167697852338,0.4
+Dense OpponentSIFT,dense_opponentsift,6_1_s.bmp,6,0.15999179673354796,0.0
+Dense OpponentSIFT,dense_opponentsift,6_23_s.bmp,6,0.13646740218799874,0.0
+Dense OpponentSIFT,dense_opponentsift,6_24_s.bmp,6,0.3543571550000133,0.4
+Dense OpponentSIFT,dense_opponentsift,7_13_s.bmp,7,0.3312543118899162,0.4
+Dense OpponentSIFT,dense_opponentsift,7_14_s.bmp,7,0.3488978369872604,0.3
+Dense OpponentSIFT,dense_opponentsift,7_1_s.bmp,7,0.30693095303743373,0.2
+Dense OpponentSIFT,dense_opponentsift,7_25_s.bmp,7,0.08085603959591788,0.1
+Dense OpponentSIFT,dense_opponentsift,7_30_s.bmp,7,0.20401458786515342,0.2
+Dense OpponentSIFT,dense_opponentsift,8_1_s.bmp,8,0.2988675631233365,0.5
+Dense OpponentSIFT,dense_opponentsift,8_21_s.bmp,8,0.2586800527686441,0.4
+Dense OpponentSIFT,dense_opponentsift,8_24_s.bmp,8,0.22384576417572805,0.4
+Dense OpponentSIFT,dense_opponentsift,8_3_s.bmp,8,0.32400151434727176,0.5
+Dense OpponentSIFT,dense_opponentsift,8_6_s.bmp,8,0.20900421800742564,0.2
+Dense OpponentSIFT,dense_opponentsift,9_14_s.bmp,9,0.3939502917897396,0.5
+Dense OpponentSIFT,dense_opponentsift,9_18_s.bmp,9,0.40894634540653724,0.5
+Dense OpponentSIFT,dense_opponentsift,9_1_s.bmp,9,0.5357910387987866,0.7
+Dense OpponentSIFT,dense_opponentsift,9_26_s.bmp,9,0.5937403372721048,0.7
+Dense OpponentSIFT,dense_opponentsift,9_5_s.bmp,9,0.6889780978308291,0.9
+Dense OpponentSIFT,dense_opponentsift,10_12_s.bmp,10,0.2957146891173071,0.4
+Dense OpponentSIFT,dense_opponentsift,10_21_s.bmp,10,0.32576079220769527,0.5
+Dense OpponentSIFT,dense_opponentsift,10_24_s.bmp,10,0.35139399788110937,0.7
+Dense OpponentSIFT,dense_opponentsift,10_2_s.bmp,10,0.16299481986036823,0.1
+Dense OpponentSIFT,dense_opponentsift,10_6_s.bmp,10,0.4042339875513054,0.6
+Dense OpponentSIFT,dense_opponentsift,11_13_s.bmp,11,0.3238849180232017,0.4
+Dense OpponentSIFT,dense_opponentsift,11_15_s.bmp,11,0.07612260277216304,0.1
+Dense OpponentSIFT,dense_opponentsift,11_24_s.bmp,11,0.058551506585473576,0.0
+Dense OpponentSIFT,dense_opponentsift,11_3_s.bmp,11,0.05470579358334957,0.0
+Dense OpponentSIFT,dense_opponentsift,11_8_s.bmp,11,0.24412794537232402,0.4
+Dense OpponentSIFT,dense_opponentsift,12_21_s.bmp,12,0.19211131745200438,0.2
+Dense OpponentSIFT,dense_opponentsift,12_30_s.bmp,12,0.1847918734688445,0.3
+Dense OpponentSIFT,dense_opponentsift,12_31_s.bmp,12,0.17262664662249205,0.3
+Dense OpponentSIFT,dense_opponentsift,12_3_s.bmp,12,0.10197760303212956,0.1
+Dense OpponentSIFT,dense_opponentsift,12_8_s.bmp,12,0.1084170861125563,0.1
+Dense OpponentSIFT,dense_opponentsift,13_15_s.bmp,13,0.7780106304742774,1.0
+Dense OpponentSIFT,dense_opponentsift,13_18_s.bmp,13,0.776777544201225,1.0
+Dense OpponentSIFT,dense_opponentsift,13_1_s.bmp,13,0.6337146290523694,0.7
+Dense OpponentSIFT,dense_opponentsift,13_20_s.bmp,13,0.081198649776163,0.1
+Dense OpponentSIFT,dense_opponentsift,13_29_s.bmp,13,0.03427009192941578,0.0
+Dense OpponentSIFT,dense_opponentsift,14_13_s.bmp,14,0.13012329520467747,0.2
+Dense OpponentSIFT,dense_opponentsift,14_16_s.bmp,14,0.09979049882516038,0.2
+Dense OpponentSIFT,dense_opponentsift,14_1_s.bmp,14,0.053443647010435524,0.0
+Dense OpponentSIFT,dense_opponentsift,14_24_s.bmp,14,0.05725685903201051,0.1
+Dense OpponentSIFT,dense_opponentsift,14_6_s.bmp,14,0.11654842084010905,0.0
+Dense OpponentSIFT,dense_opponentsift,15_11_s.bmp,15,0.06737366607593522,0.0
+Dense OpponentSIFT,dense_opponentsift,15_12_s.bmp,15,0.061275928255622315,0.0
+Dense OpponentSIFT,dense_opponentsift,15_13_s.bmp,15,0.08984878606305184,0.1
+Dense OpponentSIFT,dense_opponentsift,15_21_s.bmp,15,0.08994119882108222,0.1
+Dense OpponentSIFT,dense_opponentsift,15_24_s.bmp,15,0.10795759533308813,0.2
+Dense OpponentSIFT,dense_opponentsift,16_1_s.bmp,16,0.04755524112563607,0.0
+Dense OpponentSIFT,dense_opponentsift,16_20_s.bmp,16,0.20497844372894095,0.2
+Dense OpponentSIFT,dense_opponentsift,16_29_s.bmp,16,0.08882746704431511,0.1
+Dense OpponentSIFT,dense_opponentsift,16_3_s.bmp,16,0.08496914873928835,0.1
+Dense OpponentSIFT,dense_opponentsift,16_7_s.bmp,16,0.09087473213598836,0.0
+Dense OpponentSIFT,dense_opponentsift,17_18_s.bmp,17,0.5093702611773697,0.8
+Dense OpponentSIFT,dense_opponentsift,17_19_s.bmp,17,0.18635795214714224,0.3
+Dense OpponentSIFT,dense_opponentsift,17_25_s.bmp,17,0.07698993700790722,0.1
+Dense OpponentSIFT,dense_opponentsift,17_7_s.bmp,17,0.43154598889591567,0.6
+Dense OpponentSIFT,dense_opponentsift,17_9_s.bmp,17,0.3081708963761868,0.4
+Dense OpponentSIFT,dense_opponentsift,18_26_s.bmp,18,0.13791831940663082,0.1
+Dense OpponentSIFT,dense_opponentsift,18_2_s.bmp,18,0.03856333725864158,0.0
+Dense OpponentSIFT,dense_opponentsift,18_30_s.bmp,18,0.22083527570711398,0.3
+Dense OpponentSIFT,dense_opponentsift,18_3_s.bmp,18,0.12671378894450266,0.2
+Dense OpponentSIFT,dense_opponentsift,18_5_s.bmp,18,0.11441584786757567,0.0
+Dense OpponentSIFT,dense_opponentsift,19_15_s.bmp,19,0.09055757531698022,0.0
+Dense OpponentSIFT,dense_opponentsift,19_19_s.bmp,19,0.06831617129204844,0.0
+Dense OpponentSIFT,dense_opponentsift,19_24_s.bmp,19,0.11350205496781421,0.2
+Dense OpponentSIFT,dense_opponentsift,19_26_s.bmp,19,0.10071888809070946,0.1
+Dense OpponentSIFT,dense_opponentsift,19_3_s.bmp,19,0.0756302532685188,0.0
+Dense OpponentSIFT,dense_opponentsift,20_11_s.bmp,20,0.10637197296935269,0.2
+Dense OpponentSIFT,dense_opponentsift,20_13_s.bmp,20,0.14308810888635762,0.3
+Dense OpponentSIFT,dense_opponentsift,20_14_s.bmp,20,0.039081051351423396,0.0
+Dense OpponentSIFT,dense_opponentsift,20_18_s.bmp,20,0.17065607591510906,0.1
+Dense OpponentSIFT,dense_opponentsift,20_20_s.bmp,20,0.3577442725623928,0.4
+Dense RootOpponentSIFT,dense_root_opponentsift,1_15_s.bmp,1,0.09349324171129443,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,1_21_s.bmp,1,0.11000754469710379,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,1_2_s.bmp,1,0.058521270778806964,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,1_3_s.bmp,1,0.1107571733075515,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,1_4_s.bmp,1,0.07983362946589831,0.2
+Dense RootOpponentSIFT,dense_root_opponentsift,2_10_s.bmp,2,0.4428558979704138,0.5
+Dense RootOpponentSIFT,dense_root_opponentsift,2_13_s.bmp,2,0.36440160318998316,0.6
+Dense RootOpponentSIFT,dense_root_opponentsift,2_27_s.bmp,2,0.7830807647234233,1.0
+Dense RootOpponentSIFT,dense_root_opponentsift,2_29_s.bmp,2,0.8058023757956547,1.0
+Dense RootOpponentSIFT,dense_root_opponentsift,2_30_s.bmp,2,0.6066771339524863,0.7
+Dense RootOpponentSIFT,dense_root_opponentsift,3_10_s.bmp,3,0.18104265832214272,0.2
+Dense RootOpponentSIFT,dense_root_opponentsift,3_24_s.bmp,3,0.09092391626950416,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,3_3_s.bmp,3,0.08221232599390331,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,3_4_s.bmp,3,0.15430270620576142,0.2
+Dense RootOpponentSIFT,dense_root_opponentsift,3_9_s.bmp,3,0.2920716112575986,0.3
+Dense RootOpponentSIFT,dense_root_opponentsift,4_12_s.bmp,4,0.8877143281555044,0.9
+Dense RootOpponentSIFT,dense_root_opponentsift,4_1_s.bmp,4,0.47949778677167976,0.5
+Dense RootOpponentSIFT,dense_root_opponentsift,4_26_s.bmp,4,0.9230674480318445,1.0
+Dense RootOpponentSIFT,dense_root_opponentsift,4_27_s.bmp,4,0.6393136310975185,0.6
+Dense RootOpponentSIFT,dense_root_opponentsift,4_3_s.bmp,4,0.916288665038665,1.0
+Dense RootOpponentSIFT,dense_root_opponentsift,5_11_s.bmp,5,0.05038404464964972,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,5_23_s.bmp,5,0.19614005570871582,0.3
+Dense RootOpponentSIFT,dense_root_opponentsift,5_24_s.bmp,5,0.14980481217190927,0.2
+Dense RootOpponentSIFT,dense_root_opponentsift,5_26_s.bmp,5,0.10098420339308992,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,5_9_s.bmp,5,0.07847560429504778,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,6_13_s.bmp,6,0.2666107343554612,0.2
+Dense RootOpponentSIFT,dense_root_opponentsift,6_19_s.bmp,6,0.26764215271560665,0.3
+Dense RootOpponentSIFT,dense_root_opponentsift,6_1_s.bmp,6,0.18631935508849967,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,6_23_s.bmp,6,0.10580508642571432,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,6_24_s.bmp,6,0.42194608230217134,0.4
+Dense RootOpponentSIFT,dense_root_opponentsift,7_13_s.bmp,7,0.42736941443613574,0.6
+Dense RootOpponentSIFT,dense_root_opponentsift,7_14_s.bmp,7,0.44066007575645516,0.5
+Dense RootOpponentSIFT,dense_root_opponentsift,7_1_s.bmp,7,0.3059430742654,0.2
+Dense RootOpponentSIFT,dense_root_opponentsift,7_25_s.bmp,7,0.06826120132796228,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,7_30_s.bmp,7,0.24259815321769818,0.3
+Dense RootOpponentSIFT,dense_root_opponentsift,8_1_s.bmp,8,0.32295458043870356,0.4
+Dense RootOpponentSIFT,dense_root_opponentsift,8_21_s.bmp,8,0.1574534671266588,0.3
+Dense RootOpponentSIFT,dense_root_opponentsift,8_24_s.bmp,8,0.12559991408726187,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,8_3_s.bmp,8,0.371255042729172,0.5
+Dense RootOpponentSIFT,dense_root_opponentsift,8_6_s.bmp,8,0.2253873236762523,0.3
+Dense RootOpponentSIFT,dense_root_opponentsift,9_14_s.bmp,9,0.37537059386650107,0.5
+Dense RootOpponentSIFT,dense_root_opponentsift,9_18_s.bmp,9,0.44148349379637974,0.6
+Dense RootOpponentSIFT,dense_root_opponentsift,9_1_s.bmp,9,0.4634958781144986,0.6
+Dense RootOpponentSIFT,dense_root_opponentsift,9_26_s.bmp,9,0.5732831971626836,0.7
+Dense RootOpponentSIFT,dense_root_opponentsift,9_5_s.bmp,9,0.5128027762586942,0.7
+Dense RootOpponentSIFT,dense_root_opponentsift,10_12_s.bmp,10,0.20889525757178343,0.2
+Dense RootOpponentSIFT,dense_root_opponentsift,10_21_s.bmp,10,0.22407559942935207,0.4
+Dense RootOpponentSIFT,dense_root_opponentsift,10_24_s.bmp,10,0.11622573790853613,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,10_2_s.bmp,10,0.23657299429931902,0.3
+Dense RootOpponentSIFT,dense_root_opponentsift,10_6_s.bmp,10,0.3197922704189908,0.4
+Dense RootOpponentSIFT,dense_root_opponentsift,11_13_s.bmp,11,0.24849408848036436,0.4
+Dense RootOpponentSIFT,dense_root_opponentsift,11_15_s.bmp,11,0.06683270298201412,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,11_24_s.bmp,11,0.04841431696299135,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,11_3_s.bmp,11,0.08550091731756683,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,11_8_s.bmp,11,0.2368259335974924,0.3
+Dense RootOpponentSIFT,dense_root_opponentsift,12_21_s.bmp,12,0.16053513690933893,0.2
+Dense RootOpponentSIFT,dense_root_opponentsift,12_30_s.bmp,12,0.13074279535326686,0.2
+Dense RootOpponentSIFT,dense_root_opponentsift,12_31_s.bmp,12,0.20630863969605281,0.4
+Dense RootOpponentSIFT,dense_root_opponentsift,12_3_s.bmp,12,0.09965567350718839,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,12_8_s.bmp,12,0.087389547626102,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,13_15_s.bmp,13,0.7725656933051298,1.0
+Dense RootOpponentSIFT,dense_root_opponentsift,13_18_s.bmp,13,0.7662936606428221,1.0
+Dense RootOpponentSIFT,dense_root_opponentsift,13_1_s.bmp,13,0.6527277664185428,0.8
+Dense RootOpponentSIFT,dense_root_opponentsift,13_20_s.bmp,13,0.08698639422547495,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,13_29_s.bmp,13,0.0331589654419631,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,14_13_s.bmp,14,0.09805918954148966,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,14_16_s.bmp,14,0.1573075902404895,0.3
+Dense RootOpponentSIFT,dense_root_opponentsift,14_1_s.bmp,14,0.0771911536208322,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,14_24_s.bmp,14,0.04830864692934103,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,14_6_s.bmp,14,0.08709793122919526,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,15_11_s.bmp,15,0.060168823841184826,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,15_12_s.bmp,15,0.13294369937834027,0.2
+Dense RootOpponentSIFT,dense_root_opponentsift,15_13_s.bmp,15,0.10659066866034148,0.2
+Dense RootOpponentSIFT,dense_root_opponentsift,15_21_s.bmp,15,0.0651001723778227,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,15_24_s.bmp,15,0.0878473057408148,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,16_1_s.bmp,16,0.04509603006238978,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,16_20_s.bmp,16,0.19512146813734613,0.3
+Dense RootOpponentSIFT,dense_root_opponentsift,16_29_s.bmp,16,0.14009285181491787,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,16_3_s.bmp,16,0.10937038496358538,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,16_7_s.bmp,16,0.11128106078121122,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,17_18_s.bmp,17,0.6347533869334184,1.0
+Dense RootOpponentSIFT,dense_root_opponentsift,17_19_s.bmp,17,0.3167277806304881,0.4
+Dense RootOpponentSIFT,dense_root_opponentsift,17_25_s.bmp,17,0.07460769892041606,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,17_7_s.bmp,17,0.6247423348710114,0.8
+Dense RootOpponentSIFT,dense_root_opponentsift,17_9_s.bmp,17,0.4323082659280608,0.5
+Dense RootOpponentSIFT,dense_root_opponentsift,18_26_s.bmp,18,0.11103559420283468,0.2
+Dense RootOpponentSIFT,dense_root_opponentsift,18_2_s.bmp,18,0.035410089522087886,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,18_30_s.bmp,18,0.1908966737471082,0.3
+Dense RootOpponentSIFT,dense_root_opponentsift,18_3_s.bmp,18,0.10433504000952817,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,18_5_s.bmp,18,0.11054960157790761,0.2
+Dense RootOpponentSIFT,dense_root_opponentsift,19_15_s.bmp,19,0.08348330404391115,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,19_19_s.bmp,19,0.07018245275071978,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,19_24_s.bmp,19,0.17317177226634836,0.4
+Dense RootOpponentSIFT,dense_root_opponentsift,19_26_s.bmp,19,0.09319477064002904,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,19_3_s.bmp,19,0.08906138587946655,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,20_11_s.bmp,20,0.14745116547087203,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,20_13_s.bmp,20,0.15916366405248214,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,20_14_s.bmp,20,0.02421184985938024,0.0
+Dense RootOpponentSIFT,dense_root_opponentsift,20_18_s.bmp,20,0.09963482046202053,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,20_20_s.bmp,20,0.2468870333400888,0.2

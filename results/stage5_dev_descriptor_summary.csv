@@ -1,0 +1,5 @@
+sampling,representation,images,minimum_descriptors,mean_descriptors,maximum_descriptors,cache_folder
+detected,sift,100,18,459.62,1319,/content/drive/MyDrive/cvpr_coursework/EEE3032_Coursework_Starter_v3/sift_cache/stage5_queries/dev/detected_sift
+detected,opponent,100,18,459.62,1319,/content/drive/MyDrive/cvpr_coursework/EEE3032_Coursework_Starter_v3/sift_cache/stage5_queries/dev/detected_opponent
+dense,sift,100,442,452.4,494,/content/drive/MyDrive/cvpr_coursework/EEE3032_Coursework_Starter_v3/sift_cache/stage5_queries/dev/dense_sift
+dense,opponent,100,442,452.4,494,/content/drive/MyDrive/cvpr_coursework/EEE3032_Coursework_Starter_v3/sift_cache/stage5_queries/dev/dense_opponent

@@ -1,0 +1,181 @@
+method,configuration,category,n_queries,mAP,mean_P@10
+Global RGB histogram,baseline_rgb,1,5,0.19070178221870038,0.33999999999999997
+Global RGB histogram,baseline_rgb,2,5,0.29894496778231255,0.4
+Global RGB histogram,baseline_rgb,3,5,0.10144308566193376,0.04
+Global RGB histogram,baseline_rgb,4,5,0.14229973439541782,0.12000000000000002
+Global RGB histogram,baseline_rgb,5,5,0.13652632253937444,0.22000000000000003
+Global RGB histogram,baseline_rgb,6,5,0.13858829106834233,0.12000000000000002
+Global RGB histogram,baseline_rgb,7,5,0.23313045092466692,0.26
+Global RGB histogram,baseline_rgb,8,5,0.15277066208616885,0.13999999999999999
+Global RGB histogram,baseline_rgb,9,5,0.3381949327688507,0.42000000000000004
+Global RGB histogram,baseline_rgb,10,5,0.12108756153252125,0.04
+Global RGB histogram,baseline_rgb,11,5,0.052910018127772164,0.04
+Global RGB histogram,baseline_rgb,12,5,0.0982165171065588,0.13999999999999999
+Global RGB histogram,baseline_rgb,13,5,0.40263979754972123,0.52
+Global RGB histogram,baseline_rgb,14,5,0.07697029840749961,0.1
+Global RGB histogram,baseline_rgb,15,5,0.0804761217063358,0.06000000000000001
+Global RGB histogram,baseline_rgb,16,5,0.07430208104377482,0.06000000000000001
+Global RGB histogram,baseline_rgb,17,5,0.23719041019750717,0.3
+Global RGB histogram,baseline_rgb,18,5,0.10573746796304269,0.16
+Global RGB histogram,baseline_rgb,19,5,0.1393673475488887,0.14
+Global RGB histogram,baseline_rgb,20,5,0.06258450959491833,0.04
+Detected SIFT,detected_sift,1,5,0.1417670381235689,0.21999999999999997
+Detected SIFT,detected_sift,2,5,0.33362888335429297,0.42000000000000004
+Detected SIFT,detected_sift,3,5,0.14105055208354642,0.21999999999999997
+Detected SIFT,detected_sift,4,5,0.3079830443787032,0.48
+Detected SIFT,detected_sift,5,5,0.1654578964911811,0.22000000000000003
+Detected SIFT,detected_sift,6,5,0.11377514573137229,0.08
+Detected SIFT,detected_sift,7,5,0.24785125556421286,0.22000000000000003
+Detected SIFT,detected_sift,8,5,0.3462726930392372,0.4600000000000001
+Detected SIFT,detected_sift,9,5,0.14491843465161808,0.21999999999999997
+Detected SIFT,detected_sift,10,5,0.20537557290417835,0.3
+Detected SIFT,detected_sift,11,5,0.0908929040427721,0.13999999999999999
+Detected SIFT,detected_sift,12,5,0.14679312309505196,0.2
+Detected SIFT,detected_sift,13,5,0.27121916119389966,0.32
+Detected SIFT,detected_sift,14,5,0.05835360097892448,0.06000000000000001
+Detected SIFT,detected_sift,15,5,0.07782093453661804,0.06000000000000001
+Detected SIFT,detected_sift,16,5,0.11257843967980204,0.18000000000000002
+Detected SIFT,detected_sift,17,5,0.15126272696130344,0.18
+Detected SIFT,detected_sift,18,5,0.06286503054065065,0.02
+Detected SIFT,detected_sift,19,5,0.10349390753524881,0.12
+Detected SIFT,detected_sift,20,5,0.06832223126770165,0.08
+Detected RootSIFT,detected_rootsift,1,5,0.14260866282709833,0.2
+Detected RootSIFT,detected_rootsift,2,5,0.3608568878148138,0.48
+Detected RootSIFT,detected_rootsift,3,5,0.1424973047292895,0.16
+Detected RootSIFT,detected_rootsift,4,5,0.38164750555691407,0.43999999999999995
+Detected RootSIFT,detected_rootsift,5,5,0.14147168324702927,0.2
+Detected RootSIFT,detected_rootsift,6,5,0.09834110572138423,0.06000000000000001
+Detected RootSIFT,detected_rootsift,7,5,0.22366202655442363,0.18
+Detected RootSIFT,detected_rootsift,8,5,0.4323859552321879,0.6
+Detected RootSIFT,detected_rootsift,9,5,0.17302647330437568,0.25999999999999995
+Detected RootSIFT,detected_rootsift,10,5,0.22412982556876693,0.36
+Detected RootSIFT,detected_rootsift,11,5,0.1552163893260765,0.26
+Detected RootSIFT,detected_rootsift,12,5,0.12892290911451312,0.18
+Detected RootSIFT,detected_rootsift,13,5,0.2614908956658709,0.33999999999999997
+Detected RootSIFT,detected_rootsift,14,5,0.061141279609793056,0.08
+Detected RootSIFT,detected_rootsift,15,5,0.062015530701162044,0.04
+Detected RootSIFT,detected_rootsift,16,5,0.09782988687763347,0.13999999999999999
+Detected RootSIFT,detected_rootsift,17,5,0.1262020382599081,0.12
+Detected RootSIFT,detected_rootsift,18,5,0.07256330225688384,0.08
+Detected RootSIFT,detected_rootsift,19,5,0.11451454919083855,0.1
+Detected RootSIFT,detected_rootsift,20,5,0.06299273902243031,0.06000000000000001
+Detected OpponentSIFT,detected_opponentsift,1,5,0.20344732996405987,0.32
+Detected OpponentSIFT,detected_opponentsift,2,5,0.29904632186175995,0.5199999999999999
+Detected OpponentSIFT,detected_opponentsift,3,5,0.16391601167656694,0.18
+Detected OpponentSIFT,detected_opponentsift,4,5,0.25644241191455114,0.26
+Detected OpponentSIFT,detected_opponentsift,5,5,0.22435142443089137,0.3
+Detected OpponentSIFT,detected_opponentsift,6,5,0.15287185303376494,0.2
+Detected OpponentSIFT,detected_opponentsift,7,5,0.37394147924669785,0.48
+Detected OpponentSIFT,detected_opponentsift,8,5,0.37529590846615735,0.4600000000000001
+Detected OpponentSIFT,detected_opponentsift,9,5,0.3846487462197937,0.54
+Detected OpponentSIFT,detected_opponentsift,10,5,0.17693247461259234,0.32
+Detected OpponentSIFT,detected_opponentsift,11,5,0.09946684348412574,0.13999999999999999
+Detected OpponentSIFT,detected_opponentsift,12,5,0.12186210109109205,0.21999999999999997
+Detected OpponentSIFT,detected_opponentsift,13,5,0.36042581963982884,0.5
+Detected OpponentSIFT,detected_opponentsift,14,5,0.05419208256964464,0.02
+Detected OpponentSIFT,detected_opponentsift,15,5,0.0725828770116789,0.04
+Detected OpponentSIFT,detected_opponentsift,16,5,0.11382837791769326,0.15999999999999998
+Detected OpponentSIFT,detected_opponentsift,17,5,0.24645153409841686,0.36
+Detected OpponentSIFT,detected_opponentsift,18,5,0.08449618995512594,0.14
+Detected OpponentSIFT,detected_opponentsift,19,5,0.1253622541393454,0.15999999999999998
+Detected OpponentSIFT,detected_opponentsift,20,5,0.08791161225248904,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,1,5,0.22137995090752388,0.32
+Detected RootOpponentSIFT,detected_root_opponentsift,2,5,0.33878157886262367,0.54
+Detected RootOpponentSIFT,detected_root_opponentsift,3,5,0.14643669274968957,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,4,5,0.3696039402343814,0.5
+Detected RootOpponentSIFT,detected_root_opponentsift,5,5,0.192603975690676,0.3
+Detected RootOpponentSIFT,detected_root_opponentsift,6,5,0.17143760697131527,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,7,5,0.33273349704493277,0.42000000000000004
+Detected RootOpponentSIFT,detected_root_opponentsift,8,5,0.44559385366176557,0.5
+Detected RootOpponentSIFT,detected_root_opponentsift,9,5,0.39323531930327466,0.5
+Detected RootOpponentSIFT,detected_root_opponentsift,10,5,0.17994406819601733,0.36
+Detected RootOpponentSIFT,detected_root_opponentsift,11,5,0.08603928775221797,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,12,5,0.12248460351369235,0.2
+Detected RootOpponentSIFT,detected_root_opponentsift,13,5,0.37584730080283274,0.4600000000000001
+Detected RootOpponentSIFT,detected_root_opponentsift,14,5,0.060126959781080916,0.04
+Detected RootOpponentSIFT,detected_root_opponentsift,15,5,0.11377642048906574,0.12000000000000002
+Detected RootOpponentSIFT,detected_root_opponentsift,16,5,0.11441914878324155,0.13999999999999999
+Detected RootOpponentSIFT,detected_root_opponentsift,17,5,0.24781730329597754,0.36
+Detected RootOpponentSIFT,detected_root_opponentsift,18,5,0.08830002341270797,0.1
+Detected RootOpponentSIFT,detected_root_opponentsift,19,5,0.14530020826740478,0.15999999999999998
+Detected RootOpponentSIFT,detected_root_opponentsift,20,5,0.08836344511114602,0.08
+Dense SIFT,dense_sift,1,5,0.08211743327392643,0.06000000000000001
+Dense SIFT,dense_sift,2,5,0.6184610306175087,0.8
+Dense SIFT,dense_sift,3,5,0.13170643579591768,0.16
+Dense SIFT,dense_sift,4,5,0.778750369714851,0.78
+Dense SIFT,dense_sift,5,5,0.13600103814703615,0.16
+Dense SIFT,dense_sift,6,5,0.18116233917469868,0.24
+Dense SIFT,dense_sift,7,5,0.2690267101659889,0.28
+Dense SIFT,dense_sift,8,5,0.2842419542586253,0.28
+Dense SIFT,dense_sift,9,5,0.35048157799514684,0.44000000000000006
+Dense SIFT,dense_sift,10,5,0.3067291088520935,0.52
+Dense SIFT,dense_sift,11,5,0.16393360056779513,0.21999999999999997
+Dense SIFT,dense_sift,12,5,0.14919569435170282,0.24
+Dense SIFT,dense_sift,13,5,0.42094757110796666,0.52
+Dense SIFT,dense_sift,14,5,0.06118957507507692,0.02
+Dense SIFT,dense_sift,15,5,0.11797139616317738,0.12
+Dense SIFT,dense_sift,16,5,0.11386991424725952,0.13999999999999999
+Dense SIFT,dense_sift,17,5,0.24653165440977406,0.4
+Dense SIFT,dense_sift,18,5,0.1506105364754367,0.18
+Dense SIFT,dense_sift,19,5,0.11527412834286652,0.13999999999999999
+Dense SIFT,dense_sift,20,5,0.1943528154993039,0.2
+Dense RootSIFT,dense_rootsift,1,5,0.09546904601065567,0.08
+Dense RootSIFT,dense_rootsift,2,5,0.6250341558773505,0.82
+Dense RootSIFT,dense_rootsift,3,5,0.11986862244368221,0.2
+Dense RootSIFT,dense_rootsift,4,5,0.713860660849722,0.8200000000000001
+Dense RootSIFT,dense_rootsift,5,5,0.12801877944138462,0.15999999999999998
+Dense RootSIFT,dense_rootsift,6,5,0.21602830270892065,0.3
+Dense RootSIFT,dense_rootsift,7,5,0.30500739381945075,0.28
+Dense RootSIFT,dense_rootsift,8,5,0.3093376860879786,0.33999999999999997
+Dense RootSIFT,dense_rootsift,9,5,0.27203669614233483,0.32
+Dense RootSIFT,dense_rootsift,10,5,0.32360173114557844,0.45999999999999996
+Dense RootSIFT,dense_rootsift,11,5,0.13218698445716112,0.16
+Dense RootSIFT,dense_rootsift,12,5,0.14231098669325756,0.22000000000000006
+Dense RootSIFT,dense_rootsift,13,5,0.4402355818148195,0.58
+Dense RootSIFT,dense_rootsift,14,5,0.08539096363662319,0.04
+Dense RootSIFT,dense_rootsift,15,5,0.06674932060729717,0.04
+Dense RootSIFT,dense_rootsift,16,5,0.1269371377513151,0.16
+Dense RootSIFT,dense_rootsift,17,5,0.29120324088249705,0.4
+Dense RootSIFT,dense_rootsift,18,5,0.13485285104978958,0.13999999999999999
+Dense RootSIFT,dense_rootsift,19,5,0.09387223431964635,0.1
+Dense RootSIFT,dense_rootsift,20,5,0.11440779386837263,0.13999999999999999
+Dense OpponentSIFT,dense_opponentsift,1,5,0.0850880791013749,0.04
+Dense OpponentSIFT,dense_opponentsift,2,5,0.5533062523987877,0.6799999999999999
+Dense OpponentSIFT,dense_opponentsift,3,5,0.16077083987956084,0.22000000000000003
+Dense OpponentSIFT,dense_opponentsift,4,5,0.790037912069703,0.8200000000000001
+Dense OpponentSIFT,dense_opponentsift,5,5,0.1153602409899576,0.1
+Dense OpponentSIFT,dense_opponentsift,6,5,0.24126033712998507,0.24000000000000005
+Dense OpponentSIFT,dense_opponentsift,7,5,0.2543907458751363,0.24
+Dense OpponentSIFT,dense_opponentsift,8,5,0.26287982248448116,0.4
+Dense OpponentSIFT,dense_opponentsift,9,5,0.5242812222195996,0.6599999999999999
+Dense OpponentSIFT,dense_opponentsift,10,5,0.3080196573235571,0.4600000000000001
+Dense OpponentSIFT,dense_opponentsift,11,5,0.15147855326730236,0.18
+Dense OpponentSIFT,dense_opponentsift,12,5,0.15198490533760536,0.2
+Dense OpponentSIFT,dense_opponentsift,13,5,0.4607943090866901,0.56
+Dense OpponentSIFT,dense_opponentsift,14,5,0.09143254418247859,0.1
+Dense OpponentSIFT,dense_opponentsift,15,5,0.08327943490975595,0.08
+Dense OpponentSIFT,dense_opponentsift,16,5,0.10344100655483376,0.08
+Dense OpponentSIFT,dense_opponentsift,17,5,0.3024870071209043,0.44000000000000006
+Dense OpponentSIFT,dense_opponentsift,18,5,0.12768931383689294,0.12000000000000002
+Dense OpponentSIFT,dense_opponentsift,19,5,0.08974498858721422,0.06000000000000001
+Dense OpponentSIFT,dense_opponentsift,20,5,0.1633882963369271,0.2
+Dense RootOpponentSIFT,dense_root_opponentsift,1,5,0.09052257199213101,0.08
+Dense RootOpponentSIFT,dense_root_opponentsift,2,5,0.6005635551263923,0.76
+Dense RootOpponentSIFT,dense_root_opponentsift,3,5,0.16011064360978206,0.18000000000000002
+Dense RootOpponentSIFT,dense_root_opponentsift,4,5,0.7691763718190424,0.8
+Dense RootOpponentSIFT,dense_root_opponentsift,5,5,0.11515774404368248,0.12
+Dense RootOpponentSIFT,dense_root_opponentsift,6,5,0.2496646821774906,0.18
+Dense RootOpponentSIFT,dense_root_opponentsift,7,5,0.29696638380073026,0.32
+Dense RootOpponentSIFT,dense_root_opponentsift,8,5,0.2405300656116097,0.31999999999999995
+Dense RootOpponentSIFT,dense_root_opponentsift,9,5,0.47328718783975143,0.6200000000000001
+Dense RootOpponentSIFT,dense_root_opponentsift,10,5,0.22111237192559624,0.27999999999999997
+Dense RootOpponentSIFT,dense_root_opponentsift,11,5,0.13721359186808582,0.18
+Dense RootOpponentSIFT,dense_root_opponentsift,12,5,0.1369263586183898,0.18
+Dense RootOpponentSIFT,dense_root_opponentsift,13,5,0.46234649600678657,0.58
+Dense RootOpponentSIFT,dense_root_opponentsift,14,5,0.09359290231226954,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,15,5,0.09053013399970082,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,16,5,0.12019235915189008,0.12
+Dense RootOpponentSIFT,dense_root_opponentsift,17,5,0.41662789345667894,0.54
+Dense RootOpponentSIFT,dense_root_opponentsift,18,5,0.11044539981189332,0.16
+Dense RootOpponentSIFT,dense_root_opponentsift,19,5,0.10181873711609497,0.1
+Dense RootOpponentSIFT,dense_root_opponentsift,20,5,0.13546970663696875,0.1

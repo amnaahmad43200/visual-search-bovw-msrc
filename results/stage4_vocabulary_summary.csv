@@ -1,0 +1,9 @@
+configuration,status,training_descriptors,descriptor_dimension,vocabulary_shape,fit_seconds,iterations,inertia,empty_clusters,vocabulary_file
+detected_sift,reused,75631,128,"(100, 128)",0.9876842498779297,4,6277861376.0,0,/content/drive/MyDrive/cvpr_coursework/EEE3032_Coursework_Starter_v3/bovw_vocabularies/vocab_detected_sift_K100_cap200_seed3032.npz
+detected_rootsift,reused,75631,128,"(100, 128)",2.3143558502197266,3,15773.7998046875,0,/content/drive/MyDrive/cvpr_coursework/EEE3032_Coursework_Starter_v3/bovw_vocabularies/vocab_detected_rootsift_K100_cap200_seed3032.npz
+detected_opponentsift,reused,75631,384,"(100, 384)",2.310943126678467,4,25911977984.0,0,/content/drive/MyDrive/cvpr_coursework/EEE3032_Coursework_Starter_v3/bovw_vocabularies/vocab_detected_opponentsift_K100_cap200_seed3032.npz
+detected_root_opponentsift,reused,75631,384,"(100, 384)",2.4064056873321533,4,21138.92578125,0,/content/drive/MyDrive/cvpr_coursework/EEE3032_Coursework_Starter_v3/bovw_vocabularies/vocab_detected_root_opponentsift_K100_cap200_seed3032.npz
+dense_sift,reused,78200,128,"(100, 128)",0.9321203231811523,3,4982268928.0,0,/content/drive/MyDrive/cvpr_coursework/EEE3032_Coursework_Starter_v3/bovw_vocabularies/vocab_dense_sift_K100_cap200_seed3032.npz
+dense_rootsift,reused,78200,128,"(100, 128)",0.881211519241333,3,8434.82421875,0,/content/drive/MyDrive/cvpr_coursework/EEE3032_Coursework_Starter_v3/bovw_vocabularies/vocab_dense_rootsift_K100_cap200_seed3032.npz
+dense_opponentsift,reused,78200,384,"(100, 384)",2.3023719787597656,3,15962030080.0,0,/content/drive/MyDrive/cvpr_coursework/EEE3032_Coursework_Starter_v3/bovw_vocabularies/vocab_dense_opponentsift_K100_cap200_seed3032.npz
+dense_root_opponentsift,reused,78200,384,"(100, 384)",2.214428663253784,3,8354.6904296875,0,/content/drive/MyDrive/cvpr_coursework/EEE3032_Coursework_Starter_v3/bovw_vocabularies/vocab_dense_root_opponentsift_K100_cap200_seed3032.npz

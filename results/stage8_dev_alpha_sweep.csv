@@ -1,0 +1,6 @@
+method,core_configuration,alpha_bovw,alpha_deep,mAP,mean_P@10,n_queries
+MobileNetV3-Small only,dense_root_opponentsift,0.0,1.0,0.6726491980793622,0.7350000000000001,100
+Late fusion alpha=0.25,dense_root_opponentsift,0.25,0.75,0.6185721784986155,0.6769999999999999,100
+Late fusion alpha=0.50,dense_root_opponentsift,0.5,0.5,0.48122157433694007,0.5439999999999999,100
+Late fusion alpha=0.75,dense_root_opponentsift,0.75,0.25,0.3497771420665316,0.3990000000000001,100
+BoVW only (dense_root_opponentsift),dense_root_opponentsift,1.0,0.0,0.2510977170830161,0.29100000000000004,100

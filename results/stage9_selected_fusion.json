@@ -1,0 +1,22 @@
+{
+  "core_configuration": "dense_root_opponentsift",
+  "vocabulary_size": 100,
+  "stage8_fixed_alpha_bovw": 0.0,
+  "rrf_constant": 60,
+  "best_rrf_alpha_bovw": 0.0,
+  "best_rrf_development_mAP": 0.6726491980793622,
+  "best_rrf_development_mean_P_at_10": 0.7350000000000001,
+  "best_minmax_alpha_bovw": 0.0,
+  "best_minmax_development_mAP": 0.6726491980793622,
+  "best_zscore_alpha_bovw": 0.0,
+  "best_zscore_development_mAP": 0.6726491980793622,
+  "adaptive_alpha_max": 0.1,
+  "adaptive_beta": 1.0,
+  "adaptive_development_mAP": 0.6724779645527554,
+  "adaptive_development_mean_P_at_10": 0.7350000000000001,
+  "best_development_method": "MobileNetV3-Small",
+  "oracle_development_mAP_upper_bound": 0.6839362255267041,
+  "oracle_headroom_over_best_stage8_alpha": 0.01128702744734189,
+  "test_evaluated": false,
+  "selection_rule": "Development mAP; tie-break by mean P@10. Oracle diagnostic is not a deployable method."
+}

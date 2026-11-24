@@ -1,0 +1,2 @@
+method,n_queries,mAP,mean_P@10
+dense_root_opponentsift,100,0.2471651862750346,0.30000000000000004

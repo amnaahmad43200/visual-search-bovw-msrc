@@ -1,0 +1,10 @@
+method,configuration,method_type,mAP,mean_P@10,n_queries
+Dense RootOpponentSIFT,dense_root_opponentsift,BoVW,0.25111275784624837,0.29100000000000004,100
+Dense OpponentSIFT,dense_opponentsift,BoVW,0.2510557734346374,0.29400000000000004,100
+Dense SIFT,dense_sift,BoVW,0.24362774421180763,0.295,100
+Dense RootSIFT,dense_rootsift,BoVW,0.2368205084803919,0.28800000000000003,100
+Detected RootOpponentSIFT,detected_root_opponentsift,BoVW,0.2117112592415784,0.28,100
+Detected OpponentSIFT,detected_opponentsift,BoVW,0.19887368267931382,0.271,100
+Detected RootSIFT,detected_rootsift,BoVW,0.17317584752906964,0.21700000000000003,100
+Detected SIFT,detected_sift,BoVW,0.16458412880769416,0.21,100
+Global RGB histogram,baseline_rgb,Baseline,0.15920411801121545,0.18300000000000005,100
